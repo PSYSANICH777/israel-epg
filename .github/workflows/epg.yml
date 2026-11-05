@@ -1,0 +1,30 @@
+name: Israel EPG
+on:
+  schedule:
+    - cron: '17 1,13 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Grab
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git epgsrc
+          cd epgsrc
+          npm install
+          npm run grab --- --sites=yes.co.il,9tv.co.il,mako.co.il --days=3 --maxConnections=5 --output=../guide.xml --gzip=../guide.xml.gz
+      - name: Commit
+        run: |
+          rm -rf epgsrc
+          git config user.name "epg-bot"
+          git config user.email "epg-bot@users.noreply.github.com"
+          git add guide.xml guide.xml.gz
+          git commit -m "update EPG" || echo "no changes"
+          git push
