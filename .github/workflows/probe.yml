@@ -1,0 +1,25 @@
+name: probe
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p probe
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"
+          curl -sSL -A "$UA" -m 60 -o probe/tvguide.html -w "%{http_code} %{size_download}\n" https://www.hot.net.il/heb/tv/tvguide/ || true
+          grep -oE '(src|href)="[^"]+\.js[^"]*"' probe/tvguide.html | head -50 > probe/js.txt || true
+          for j in $(grep -oE '"[^"]+\.js[^"]*"' probe/js.txt | tr -d '"' | head -30); do
+            case "$j" in http*) u="$j";; //*) u="https:$j";; /*) u="https://www.hot.net.il$j";; *) u="https://www.hot.net.il/heb/tv/tvguide/$j";; esac
+            f=probe/$(echo "$j" | md5sum | cut -c1-8).js
+            curl -sSL -A "$UA" -m 60 -o "$f" "$u" || true
+            echo "$u -> $f" >> probe/jsmap.txt
+          done
+          grep -ohiE '[a-z0-9/_.-]*(api|ajax|services?|handler|ashx|asmx|json)[a-z0-9/_.?=&-]*' probe/*.js probe/tvguide.html | sort | uniq -c | sort -rn | head -150 > probe/api_strings.txt || true
+          grep -oiE '.{120}(GetPrograms|Schedule|Schedual|Broadcast|EPG|ChannelId|LineUp).{160}' probe/*.js probe/tvguide.html | head -80 > probe/context.txt || true
+      - run: |
+          git config user.name probe; git config user.email probe@users.noreply.github.com
+          git add probe && git commit -qm "probe hot" && git push
