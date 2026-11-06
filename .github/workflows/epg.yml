@@ -8,23 +8,32 @@ permissions:
 jobs:
   grab:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - name: Grab
         run: |
           git clone --depth 1 https://github.com/iptv-org/epg.git epgsrc
           cd epgsrc
           npm install
-          npm run grab --- --sites=yes.co.il,9tv.co.il,mako.co.il --days=3 --maxConnections=5 --output=../guide.xml --gzip=../guide.xml.gz
+          # свежий список всех каналов yes (новые вроде 5MAX попадают сами)
+          npm run channels:parse --- --config=./sites/yes.co.il/yes.co.il.config.js --output=../yes.channels.xml || cp sites/yes.co.il/yes.co.il.channels.xml ../yes.channels.xml
+          grep -c "<channel" ../yes.channels.xml || true
+          npm run grab --- --channels=../yes.channels.xml --days=4 --maxConnections=5 --output=../new_yes.xml || true
+          npm run grab --- --sites=9tv.co.il,mako.co.il --days=4 --maxConnections=3 --output=../new_other.xml || true
+      - name: Merge
+        run: python tools/merge.py guide.xml new_yes.xml new_other.xml
       - name: Commit
         run: |
-          rm -rf epgsrc
+          rm -rf epgsrc new_yes.xml new_other.xml
           git config user.name "epg-bot"
           git config user.email "epg-bot@users.noreply.github.com"
-          git add guide.xml guide.xml.gz
+          git add guide.xml guide.xml.gz yes.channels.xml
           git commit -m "update EPG" || echo "no changes"
           git push
