@@ -1,0 +1,19 @@
+name: find-names
+on: workflow_dispatch
+jobs:
+  f:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          mkdir -p src
+          dl() { curl -sSL -A "Mozilla/5.0" -m 900 -o "src/$1" "$2" || true; }
+          for p in edem/edem.xml.gz bcu/epg.xml.gz epg.il-tv/epg.xml.gz iptvx.one/epg.xml.gz epg.pw/epg.xml.gz epgshare/epg_ripper_ALL_SOURCES1.xml.gz 1ott/xmltv.xml.gz acidjesus/guide.xml lightiptv/epg.xml.gz magic/tvg.xml shara-tv/epgtv.xml.gz ottg/epg.xml.gz fox-tv/999.xmltv tvteam/tvteam.xml propg.net/epg.xml.gz viplime/full.xml.gz only4/epg.xml.gz nowatv/nowatv.xml.gz t-s-d/t-s-d.xml.gz teleguide.info/xmltv.xml.gz kbc/xmltv.xml; do
+            n=$(echo $p | tr '/' '_'); dl "$n" "https://epg.ott-play.com/$p" &
+          done; wait; ls -la src
+          args=""; for f in src/*; do args="$args $(basename $f)|$f"; done
+          python tools/find_names.py $args
