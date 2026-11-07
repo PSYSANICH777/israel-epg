@@ -1,0 +1,40 @@
+name: My EPG
+on:
+  schedule:
+    - cron: '47 2,14 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download sources
+        run: |
+          mkdir -p src
+          dl() { curl -sSL -A "Mozilla/5.0" --retry 2 -m 900 -o "src/$1" "$2" || echo "FAIL $2"; }
+          dl edem.gz https://epg.ott-play.com/edem/edem.xml.gz &
+          dl bcu.gz https://epg.ott-play.com/bcu/epg.xml.gz &
+          dl iltv.gz https://epg.ott-play.com/epg.il-tv/epg.xml.gz &
+          dl iptvx.gz https://epg.ott-play.com/iptvx.one/epg.xml.gz &
+          dl epgpw.gz https://epg.ott-play.com/epg.pw/epg.xml.gz &
+          dl epgshare.gz https://epg.ott-play.com/epgshare/epg_ripper_ALL_SOURCES1.xml.gz &
+          dl epgone.gz http://cdn.epg.one/epg.xml.gz &
+          wait
+          curl -sSL -m 120 -o old_my.xml.gz https://github.com/${{ github.repository }}/releases/download/latest/my.xml.gz || true
+          ls -la src old_my.xml.gz || true
+      - name: Build
+        run: |
+          python tools/build_my.py "yes|guide.xml|1" "il-tv|src/iltv.gz|1" "edem|src/edem.gz|0" "epg.one|src/epgone.gz|0" \
+            "bcu|src/bcu.gz|0" "iptvx|src/iptvx.gz|0" "epgshare|src/epgshare.gz|1" "epg.pw|src/epgpw.gz|0"
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view latest >/dev/null 2>&1 || gh release create latest --title "EPG" --notes "my.xml.gz — программа под плейлист"
+          gh release upload latest my.xml.gz my_report.json --clobber

@@ -1,0 +1,6930 @@
+[
+{
+"name": "360",
+"group": "Общие"
+},
+{
+"name": "360 HD",
+"group": "Общие"
+},
+{
+"name": "Gametoon HD",
+"group": "Общие"
+},
+{
+"name": "GNC HD",
+"group": "Общие"
+},
+{
+"name": "MS Crime HD",
+"group": "Общие"
+},
+{
+"name": "RTVi",
+"group": "Общие"
+},
+{
+"name": "БСТ",
+"group": "Общие"
+},
+{
+"name": "Вместе-РФ",
+"group": "Общие"
+},
+{
+"name": "Дождь",
+"group": "Общие"
+},
+{
+"name": "Дождь HD",
+"group": "Общие"
+},
+{
+"name": "Домашний",
+"group": "Общие"
+},
+{
+"name": "Домашний HD",
+"group": "Общие"
+},
+{
+"name": "Загородный",
+"group": "Общие"
+},
+{
+"name": "Звезда",
+"group": "Общие"
+},
+{
+"name": "Звезда HD",
+"group": "Общие"
+},
+{
+"name": "Звезда Плюс",
+"group": "Общие"
+},
+{
+"name": "Звезда Плюс HD",
+"group": "Общие"
+},
+{
+"name": "Здоровое ТВ",
+"group": "Общие"
+},
+{
+"name": "КВН ТВ",
+"group": "Общие"
+},
+{
+"name": "Красная линия",
+"group": "Общие"
+},
+{
+"name": "Кто есть кто",
+"group": "Общие"
+},
+{
+"name": "ЛДПР ТВ",
+"group": "Общие"
+},
+{
+"name": "Мир",
+"group": "Общие"
+},
+{
+"name": "Мир HD",
+"group": "Общие"
+},
+{
+"name": "Московское образование HD",
+"group": "Общие"
+},
+{
+"name": "Надежда",
+"group": "Общие"
+},
+{
+"name": "Настоящее время",
+"group": "Общие"
+},
+{
+"name": "Ностальгия",
+"group": "Общие"
+},
+{
+"name": "НТВ",
+"group": "Общие"
+},
+{
+"name": "НТВ HD",
+"group": "Общие"
+},
+{
+"name": "НТВ UHD",
+"group": "Общие"
+},
+{
+"name": "НТВ Мир",
+"group": "Общие"
+},
+{
+"name": "НТВ Хит HD",
+"group": "Общие"
+},
+{
+"name": "Открытый мир",
+"group": "Общие"
+},
+{
+"name": "ОТР",
+"group": "Общие"
+},
+{
+"name": "ОТР HD",
+"group": "Общие"
+},
+{
+"name": "Патриот",
+"group": "Общие"
+},
+{
+"name": "Первый канал",
+"group": "Общие"
+},
+{
+"name": "Первый канал FHD",
+"group": "Общие"
+},
+{
+"name": "Первый канал HD",
+"group": "Общие"
+},
+{
+"name": "Первый канал UHD",
+"group": "Общие"
+},
+{
+"name": "Прима (Красноярск)",
+"group": "Общие"
+},
+{
+"name": "Психология",
+"group": "Общие"
+},
+{
+"name": "Пятый канал",
+"group": "Общие"
+},
+{
+"name": "Ратник HD",
+"group": "Общие"
+},
+{
+"name": "РЕН ТВ",
+"group": "Общие"
+},
+{
+"name": "РЕН ТВ HD",
+"group": "Общие"
+},
+{
+"name": "Россия 1",
+"group": "Общие"
+},
+{
+"name": "Россия 1 FHD",
+"group": "Общие"
+},
+{
+"name": "Россия 1 HD",
+"group": "Общие"
+},
+{
+"name": "Россия 1 HD 50",
+"group": "Общие"
+},
+{
+"name": "Россия 1 UHD",
+"group": "Общие"
+},
+{
+"name": "Россия К",
+"group": "Общие"
+},
+{
+"name": "Россия К HD",
+"group": "Общие"
+},
+{
+"name": "Сарафан",
+"group": "Общие"
+},
+{
+"name": "Союз",
+"group": "Общие"
+},
+{
+"name": "СПАС",
+"group": "Общие"
+},
+{
+"name": "СТС Love",
+"group": "Общие"
+},
+{
+"name": "Суббота!",
+"group": "Общие"
+},
+{
+"name": "Суббота! HD",
+"group": "Общие"
+},
+{
+"name": "ТВ Центр",
+"group": "Общие"
+},
+{
+"name": "ТВ Центр International",
+"group": "Общие"
+},
+{
+"name": "ТВ-3",
+"group": "Общие"
+},
+{
+"name": "ТВ-3 HD",
+"group": "Общие"
+},
+{
+"name": "ТНТ International HD",
+"group": "Общие"
+},
+{
+"name": "ТНТ UHD",
+"group": "Общие"
+},
+{
+"name": "ТНТ4",
+"group": "Общие"
+},
+{
+"name": "Точка ТВ",
+"group": "Общие"
+},
+{
+"name": "Успех",
+"group": "Общие"
+},
+{
+"name": "Хузур ТВ",
+"group": "Общие"
+},
+{
+"name": "Че!",
+"group": "Общие"
+},
+{
+"name": "Ю ТВ",
+"group": "Общие"
+},
+{
+"name": "100% News UA",
+"group": "Новостные"
+},
+{
+"name": "24 Канал UA",
+"group": "Новостные"
+},
+{
+"name": "360 Новости",
+"group": "Новостные"
+},
+{
+"name": "360 Новости HD",
+"group": "Новостные"
+},
+{
+"name": "Deutsche Welle Russian",
+"group": "Новостные"
+},
+{
+"name": "Euronews Россия",
+"group": "Новостные"
+},
+{
+"name": "Известия",
+"group": "Новостные"
+},
+{
+"name": "Известия HD",
+"group": "Новостные"
+},
+{
+"name": "Инфоканал",
+"group": "Новостные"
+},
+{
+"name": "Крик ТВ HD",
+"group": "Новостные"
+},
+{
+"name": "Мир 24",
+"group": "Новостные"
+},
+{
+"name": "Мир 24 HD",
+"group": "Новостные"
+},
+{
+"name": "Москва 24",
+"group": "Новостные"
+},
+{
+"name": "Первый информационный HD BY",
+"group": "Новостные"
+},
+{
+"name": "РБК",
+"group": "Новостные"
+},
+{
+"name": "РБК FHD",
+"group": "Новостные"
+},
+{
+"name": "РБК HD",
+"group": "Новостные"
+},
+{
+"name": "РБК HD 50",
+"group": "Новостные"
+},
+{
+"name": "Россия 24",
+"group": "Новостные"
+},
+{
+"name": "Россия 24 HD",
+"group": "Новостные"
+},
+{
+"name": "РТР Планета",
+"group": "Новостные"
+},
+{
+"name": "Центральное телевидение",
+"group": "Новостные"
+},
+{
+"name": "Экоспаскоми (Коми)",
+"group": "Новостные"
+},
+{
+"name": ".black",
+"group": "Кино"
+},
+{
+"name": ".black HD",
+"group": "Кино"
+},
+{
+"name": ".red",
+"group": "Кино"
+},
+{
+"name": ".red HD",
+"group": "Кино"
+},
+{
+"name": ".sci-fi",
+"group": "Кино"
+},
+{
+"name": ".sci-fi HD",
+"group": "Кино"
+},
+{
+"name": "2x2",
+"group": "Кино"
+},
+{
+"name": "4ever Drama HD UA",
+"group": "Кино"
+},
+{
+"name": "4ever Theater HD UA",
+"group": "Кино"
+},
+{
+"name": "9-1-1 HD",
+"group": "Кино"
+},
+{
+"name": "Amedia 1",
+"group": "Кино"
+},
+{
+"name": "Amedia 2",
+"group": "Кино"
+},
+{
+"name": "Amedia 2 HD",
+"group": "Кино"
+},
+{
+"name": "Amedia Hit",
+"group": "Кино"
+},
+{
+"name": "Amedia Hit HD",
+"group": "Кино"
+},
+{
+"name": "Amedia Premium",
+"group": "Кино"
+},
+{
+"name": "Amedia Premium HD",
+"group": "Кино"
+},
+{
+"name": "Atreseries HD ES",
+"group": "Кино"
+},
+{
+"name": "BCU Action HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Catastrophe HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Cinema HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Cinema+ HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Comedy HD",
+"group": "Кино"
+},
+{
+"name": "BCU Comedy HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Criminal HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Family HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Fantastic HD",
+"group": "Кино"
+},
+{
+"name": "BCU FilMystic HD",
+"group": "Кино"
+},
+{
+"name": "BCU History HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Kinorating HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Marvel HD",
+"group": "Кино"
+},
+{
+"name": "BCU Marvel HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Media 2 HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Media 3 HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Media HD",
+"group": "Кино"
+},
+{
+"name": "BCU Media HD OLD",
+"group": "Кино"
+},
+{
+"name": "BCU Premiere 1 HD",
+"group": "Кино"
+},
+{
+"name": "BCU Premiere 2 HD",
+"group": "Кино"
+},
+{
+"name": "BCU Premiere 3 HD",
+"group": "Кино"
+},
+{
+"name": "BCU Premiere HD",
+"group": "Кино"
+},
+{
+"name": "BCU Premiere Ultra 4K",
+"group": "Кино"
+},
+{
+"name": "BCU Premium Kinozakaz+ 4K HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Premium Premiere+ 4K HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Reality HD",
+"group": "Кино"
+},
+{
+"name": "BCU Reality OLD",
+"group": "Кино"
+},
+{
+"name": "BCU Romantic HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Romantic OLD",
+"group": "Кино"
+},
+{
+"name": "BCU RuSerial HD",
+"group": "Кино"
+},
+{
+"name": "BCU Russian HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Stars HD",
+"group": "Кино"
+},
+{
+"name": "BCU Survival HD",
+"group": "Кино"
+},
+{
+"name": "BCU Survival OLD",
+"group": "Кино"
+},
+{
+"name": "BCU TruMotion HD",
+"group": "Кино"
+},
+{
+"name": "BCU Ultra 4K",
+"group": "Кино"
+},
+{
+"name": "BCU VHS HDR",
+"group": "Кино"
+},
+{
+"name": "BCU Сваты HDR",
+"group": "Кино"
+},
+{
+"name": "BCU СССР HD",
+"group": "Кино"
+},
+{
+"name": "BollywooD HD",
+"group": "Кино"
+},
+{
+"name": "BOX Anime HD",
+"group": "Кино"
+},
+{
+"name": "BOX Apocalypse HD",
+"group": "Кино"
+},
+{
+"name": "BOX Cyber HD",
+"group": "Кино"
+},
+{
+"name": "BOX Fantasy HD",
+"group": "Кино"
+},
+{
+"name": "BOX Franchise HD",
+"group": "Кино"
+},
+{
+"name": "BOX Game HD",
+"group": "Кино"
+},
+{
+"name": "BOX Gangster HD",
+"group": "Кино"
+},
+{
+"name": "BOX Ghost HD",
+"group": "Кино"
+},
+{
+"name": "BOX Hybrid HD",
+"group": "Кино"
+},
+{
+"name": "BOX M.Serial HD",
+"group": "Кино"
+},
+{
+"name": "BOX Mayday HD",
+"group": "Кино"
+},
+{
+"name": "BOX Memory HD",
+"group": "Кино"
+},
+{
+"name": "BOX Oscar HD",
+"group": "Кино"
+},
+{
+"name": "BOX Premiere 4K",
+"group": "Кино"
+},
+{
+"name": "BOX Remast 4K",
+"group": "Кино"
+},
+{
+"name": "BOX Remast+ 4K",
+"group": "Кино"
+},
+{
+"name": "BOX Serial 4K",
+"group": "Кино"
+},
+{
+"name": "BOX Serial HD",
+"group": "Кино"
+},
+{
+"name": "BOX Spy HD",
+"group": "Кино"
+},
+{
+"name": "BOX Stories HD",
+"group": "Кино"
+},
+{
+"name": "BOX Travel HD",
+"group": "Кино"
+},
+{
+"name": "BOX Western HD",
+"group": "Кино"
+},
+{
+"name": "BOX Zombie HD",
+"group": "Кино"
+},
+{
+"name": "BOX СССР 4K",
+"group": "Кино"
+},
+{
+"name": "Cinema",
+"group": "Кино"
+},
+{
+"name": "Cinema HD",
+"group": "Кино"
+},
+{
+"name": "CineMan",
+"group": "Кино"
+},
+{
+"name": "CineMan Action",
+"group": "Кино"
+},
+{
+"name": "CineMan Air Crash HD",
+"group": "Кино"
+},
+{
+"name": "CineMan Marvel",
+"group": "Кино"
+},
+{
+"name": "CineMan MiniSeries",
+"group": "Кино"
+},
+{
+"name": "CineMan OLD 4K",
+"group": "Кино"
+},
+{
+"name": "CineMan Relax 4K",
+"group": "Кино"
+},
+{
+"name": "CineMan Thriller",
+"group": "Кино"
+},
+{
+"name": "CineMan Top",
+"group": "Кино"
+},
+{
+"name": "CineMan VHS",
+"group": "Кино"
+},
+{
+"name": "CineMan Военные Сериалы HD",
+"group": "Кино"
+},
+{
+"name": "CineMan Катастрофы",
+"group": "Кино"
+},
+{
+"name": "CineMan Комедийные Сериалы",
+"group": "Кино"
+},
+{
+"name": "CineMan Комедия",
+"group": "Кино"
+},
+{
+"name": "CineMan Криминальные Сериалы",
+"group": "Кино"
+},
+{
+"name": "CineMan Лесник",
+"group": "Кино"
+},
+{
+"name": "CineMan Мелодрама",
+"group": "Кино"
+},
+{
+"name": "CineMan Ментовские войны",
+"group": "Кино"
+},
+{
+"name": "CineMan ПёС + Лихач",
+"group": "Кино"
+},
+{
+"name": "CineMan РуКино",
+"group": "Кино"
+},
+{
+"name": "CineMan Сваты",
+"group": "Кино"
+},
+{
+"name": "CineMan Симпсоны",
+"group": "Кино"
+},
+{
+"name": "CineMan Скорая Помощь",
+"group": "Кино"
+},
+{
+"name": "CineMan Ужасы",
+"group": "Кино"
+},
+{
+"name": "Citrus Cartoon",
+"group": "Кино"
+},
+{
+"name": "Citrus Comedy",
+"group": "Кино"
+},
+{
+"name": "Citrus History",
+"group": "Кино"
+},
+{
+"name": "Citrus Inquest",
+"group": "Кино"
+},
+{
+"name": "Citrus Live HD",
+"group": "Кино"
+},
+{
+"name": "Citrus Marvel",
+"group": "Кино"
+},
+{
+"name": "DetectiveJam HD",
+"group": "Кино"
+},
+{
+"name": "Epic Drama HD",
+"group": "Кино"
+},
+{
+"name": "Eye Criminal HD",
+"group": "Кино"
+},
+{
+"name": "Eye Cyber HD",
+"group": "Кино"
+},
+{
+"name": "Eye Drive HD",
+"group": "Кино"
+},
+{
+"name": "Eye Family HD",
+"group": "Кино"
+},
+{
+"name": "Eye Frozen HD",
+"group": "Кино"
+},
+{
+"name": "Eye History HD",
+"group": "Кино"
+},
+{
+"name": "Eye Media HD",
+"group": "Кино"
+},
+{
+"name": "Eye Modern HD",
+"group": "Кино"
+},
+{
+"name": "Eye Oscar HD",
+"group": "Кино"
+},
+{
+"name": "Eye Western HD",
+"group": "Кино"
+},
+{
+"name": "FamilyJam HD",
+"group": "Кино"
+},
+{
+"name": "FAN",
+"group": "Кино"
+},
+{
+"name": "FAN HD",
+"group": "Кино"
+},
+{
+"name": "FilmBox+ Festival",
+"group": "Кино"
+},
+{
+"name": "FilmBox+ One",
+"group": "Кино"
+},
+{
+"name": "FilmZone Plus HD EE",
+"group": "Кино"
+},
+{
+"name": "FlixSnip HD",
+"group": "Кино"
+},
+{
+"name": "Fresh Adventure",
+"group": "Кино"
+},
+{
+"name": "Fresh Cinema",
+"group": "Кино"
+},
+{
+"name": "Fresh Comedy",
+"group": "Кино"
+},
+{
+"name": "Fresh Family",
+"group": "Кино"
+},
+{
+"name": "Fresh Fantastic",
+"group": "Кино"
+},
+{
+"name": "Fresh Horror",
+"group": "Кино"
+},
+{
+"name": "Fresh Kids",
+"group": "Кино"
+},
+{
+"name": "Fresh Premiere",
+"group": "Кино"
+},
+{
+"name": "Fresh Rating",
+"group": "Кино"
+},
+{
+"name": "Fresh Romantic",
+"group": "Кино"
+},
+{
+"name": "Fresh Russian",
+"group": "Кино"
+},
+{
+"name": "Fresh Series",
+"group": "Кино"
+},
+{
+"name": "Fresh Soviet",
+"group": "Кино"
+},
+{
+"name": "Fresh Thriller",
+"group": "Кино"
+},
+{
+"name": "Fresh VHS",
+"group": "Кино"
+},
+{
+"name": "FX HD",
+"group": "Кино"
+},
+{
+"name": "FX Life",
+"group": "Кино"
+},
+{
+"name": "FX Life HD",
+"group": "Кино"
+},
+{
+"name": "HD Media",
+"group": "Кино"
+},
+{
+"name": "Hollywood",
+"group": "Кино"
+},
+{
+"name": "Hollywood HD",
+"group": "Кино"
+},
+{
+"name": "Hollywood orig",
+"group": "Кино"
+},
+{
+"name": "KinoJam 1 HD",
+"group": "Кино"
+},
+{
+"name": "KinoJam 2 HD",
+"group": "Кино"
+},
+{
+"name": "KinoLiving",
+"group": "Кино"
+},
+{
+"name": "Liberty DC FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty XX Век 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Аванпост 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Аниме FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Боевики FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Дрим Воркс 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Индия 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Кино ENG 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Кино UKR 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Кино UKR FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Кино Микс 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Комедии FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Короткометражки FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Криминал 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Куб 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Легенда 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Марвел FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Мелодрамы FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty МиМ FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Мульт ENG 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Мюзикл 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Нетфликс 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Планктон FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty РусФильм 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Сваты FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Семейный 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Сериалы 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Сериалы FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Симпсоны FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Сказки FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Союз 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Триллеры 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Турк Фильм 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Ужасы 4K",
+"group": "Кино"
+},
+{
+"name": "Liberty Фантастика FHD",
+"group": "Кино"
+},
+{
+"name": "Liberty Южный Парк FHD",
+"group": "Кино"
+},
+{
+"name": "Magic Action HD",
+"group": "Кино"
+},
+{
+"name": "Magic Adventure HD",
+"group": "Кино"
+},
+{
+"name": "Magic Comedy HD",
+"group": "Кино"
+},
+{
+"name": "Magic Family HD",
+"group": "Кино"
+},
+{
+"name": "Magic Galaxy HD",
+"group": "Кино"
+},
+{
+"name": "Magic Horror HD",
+"group": "Кино"
+},
+{
+"name": "Magic Karate HD",
+"group": "Кино"
+},
+{
+"name": "Magic Love HD",
+"group": "Кино"
+},
+{
+"name": "Magic Russian HD",
+"group": "Кино"
+},
+{
+"name": "Magic Thriller HD",
+"group": "Кино"
+},
+{
+"name": "Magic VHS HD",
+"group": "Кино"
+},
+{
+"name": "MM 007 HD",
+"group": "Кино"
+},
+{
+"name": "MM Celebrity HD",
+"group": "Кино"
+},
+{
+"name": "MM Classic HD",
+"group": "Кино"
+},
+{
+"name": "MM Family Guy HD",
+"group": "Кино"
+},
+{
+"name": "MM Flip UHD",
+"group": "Кино"
+},
+{
+"name": "MM Honey HD",
+"group": "Кино"
+},
+{
+"name": "MM Lesson HD",
+"group": "Кино"
+},
+{
+"name": "MM Live Planet HD",
+"group": "Кино"
+},
+{
+"name": "MM Love HD",
+"group": "Кино"
+},
+{
+"name": "MM NewFilm 1 HD",
+"group": "Кино"
+},
+{
+"name": "MM NewFilm 2 HD",
+"group": "Кино"
+},
+{
+"name": "MM NewFilm 3 HD",
+"group": "Кино"
+},
+{
+"name": "MM NewFilm RU HD",
+"group": "Кино"
+},
+{
+"name": "MM OldSchool HD",
+"group": "Кино"
+},
+{
+"name": "MM Rock HD",
+"group": "Кино"
+},
+{
+"name": "MM Smile HD",
+"group": "Кино"
+},
+{
+"name": "MM Tom and Jerry HD",
+"group": "Кино"
+},
+{
+"name": "MM UFO HD",
+"group": "Кино"
+},
+{
+"name": "MM USSR 1941-1945 HD",
+"group": "Кино"
+},
+{
+"name": "MM USSR Детектив HD",
+"group": "Кино"
+},
+{
+"name": "MM USSR Драма HD",
+"group": "Кино"
+},
+{
+"name": "MM USSR Комедия HD",
+"group": "Кино"
+},
+{
+"name": "MM USSR Мультфильм HD",
+"group": "Кино"
+},
+{
+"name": "MM USSR Приключения HD",
+"group": "Кино"
+},
+{
+"name": "MM USSR Сказки HD",
+"group": "Кино"
+},
+{
+"name": "MM Walt Disney HD",
+"group": "Кино"
+},
+{
+"name": "MM World Hits HD",
+"group": "Кино"
+},
+{
+"name": "MM Агата Кристи HD",
+"group": "Кино"
+},
+{
+"name": "MM Боевик Classic HD",
+"group": "Кино"
+},
+{
+"name": "MM Боевик HD",
+"group": "Кино"
+},
+{
+"name": "MM Вестерн HD",
+"group": "Кино"
+},
+{
+"name": "MM Воронины HD",
+"group": "Кино"
+},
+{
+"name": "MM Грайндхаус HD",
+"group": "Кино"
+},
+{
+"name": "MM Драма HD",
+"group": "Кино"
+},
+{
+"name": "MM Затмение HD",
+"group": "Кино"
+},
+{
+"name": "MM История HD",
+"group": "Кино"
+},
+{
+"name": "MM Катастрофа HD",
+"group": "Кино"
+},
+{
+"name": "MM Квартирник HD",
+"group": "Кино"
+},
+{
+"name": "MM Киберпанк HD",
+"group": "Кино"
+},
+{
+"name": "MM Кинофестиваль HD",
+"group": "Кино"
+},
+{
+"name": "MM Комедия Classic HD",
+"group": "Кино"
+},
+{
+"name": "MM Комедия HD",
+"group": "Кино"
+},
+{
+"name": "MM Криминал HD",
+"group": "Кино"
+},
+{
+"name": "MM Крутые 90-е HD",
+"group": "Кино"
+},
+{
+"name": "MM Кунг-Фу HD",
+"group": "Кино"
+},
+{
+"name": "MM Мифология HD",
+"group": "Кино"
+},
+{
+"name": "MM Нуар HD",
+"group": "Кино"
+},
+{
+"name": "MM Погружение HD",
+"group": "Кино"
+},
+{
+"name": "MM Полицейский с Рублёвки HD",
+"group": "Кино"
+},
+{
+"name": "MM Приключения HD",
+"group": "Кино"
+},
+{
+"name": "MM Роскино HD",
+"group": "Кино"
+},
+{
+"name": "MM Сваты HD",
+"group": "Кино"
+},
+{
+"name": "MM Семейный 1 HD",
+"group": "Кино"
+},
+{
+"name": "MM Семейный 2 HD",
+"group": "Кино"
+},
+{
+"name": "MM Синематограф HD",
+"group": "Кино"
+},
+{
+"name": "MM Ситком 2.0 HD",
+"group": "Кино"
+},
+{
+"name": "MM Ситком HD",
+"group": "Кино"
+},
+{
+"name": "MM Скорость HD",
+"group": "Кино"
+},
+{
+"name": "MM Спорт HD",
+"group": "Кино"
+},
+{
+"name": "MM Стивен Кинг HD",
+"group": "Кино"
+},
+{
+"name": "MM Супергерои HD",
+"group": "Кино"
+},
+{
+"name": "MM Триллер HD",
+"group": "Кино"
+},
+{
+"name": "MM Ужастик HD",
+"group": "Кино"
+},
+{
+"name": "MM Ужасы Classic HD",
+"group": "Кино"
+},
+{
+"name": "MM Ужасы HD",
+"group": "Кино"
+},
+{
+"name": "MM Фантастика HD",
+"group": "Кино"
+},
+{
+"name": "MM Фобия HD",
+"group": "Кино"
+},
+{
+"name": "MS Animated HD",
+"group": "Кино"
+},
+{
+"name": "MS Magic 4K",
+"group": "Кино"
+},
+{
+"name": "MS Prisons HD",
+"group": "Кино"
+},
+{
+"name": "MS Toons HD",
+"group": "Кино"
+},
+{
+"name": "MS Young Blood HD",
+"group": "Кино"
+},
+{
+"name": "MYTV",
+"group": "Кино"
+},
+{
+"name": "MYTV 2",
+"group": "Кино"
+},
+{
+"name": "MYTV 3",
+"group": "Кино"
+},
+{
+"name": "MYTV HIT",
+"group": "Кино"
+},
+{
+"name": "NOW Series HD",
+"group": "Кино"
+},
+{
+"name": "PG Insomnia HD",
+"group": "Кино"
+},
+{
+"name": "PG Paradise HD",
+"group": "Кино"
+},
+{
+"name": "PG Paradox HD",
+"group": "Кино"
+},
+{
+"name": "PG Premiere HD",
+"group": "Кино"
+},
+{
+"name": "PG Premium HD",
+"group": "Кино"
+},
+{
+"name": "PG Serial HD",
+"group": "Кино"
+},
+{
+"name": "PG Thriller HD",
+"group": "Кино"
+},
+{
+"name": "PG USSR HD",
+"group": "Кино"
+},
+{
+"name": "PG VHS HD",
+"group": "Кино"
+},
+{
+"name": "PG Victory HD",
+"group": "Кино"
+},
+{
+"name": "PG РуКино HD",
+"group": "Кино"
+},
+{
+"name": "RT Док HD",
+"group": "Кино"
+},
+{
+"name": "Saga TV",
+"group": "Кино"
+},
+{
+"name": "Scream HD",
+"group": "Кино"
+},
+{
+"name": "Shot TV",
+"group": "Кино"
+},
+{
+"name": "Shot TV HD",
+"group": "Кино"
+},
+{
+"name": "Shot TV orig",
+"group": "Кино"
+},
+{
+"name": "Start Air HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Sky2000 HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV The X-Files",
+"group": "Кино"
+},
+{
+"name": "StrahTV VHS HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Байки из склепа",
+"group": "Кино"
+},
+{
+"name": "StrahTV Громовы",
+"group": "Кино"
+},
+{
+"name": "StrahTV Интерны ТВ",
+"group": "Кино"
+},
+{
+"name": "StrahTV Кинодром HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Коломбо",
+"group": "Кино"
+},
+{
+"name": "StrahTV Космо HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Однажды в милиции",
+"group": "Кино"
+},
+{
+"name": "StrahTV Ольга HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Репка HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Сваты",
+"group": "Кино"
+},
+{
+"name": "StrahTV СССР",
+"group": "Кино"
+},
+{
+"name": "StrahTV Страх 2.0 HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Страх HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Универ ТВ",
+"group": "Кино"
+},
+{
+"name": "StrahTV Фантастика 2.0 HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Фантастика HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Хит HD",
+"group": "Кино"
+},
+{
+"name": "StrahTV Юнит HD",
+"group": "Кино"
+},
+{
+"name": "Sumiko HD",
+"group": "Кино"
+},
+{
+"name": "Suspenso HD ES",
+"group": "Кино"
+},
+{
+"name": "TCM HD ES",
+"group": "Кино"
+},
+{
+"name": "TOP 80 S HD",
+"group": "Кино"
+},
+{
+"name": "TOP BUDO HD",
+"group": "Кино"
+},
+{
+"name": "TOP Cinema HD",
+"group": "Кино"
+},
+{
+"name": "TOP MIX HD",
+"group": "Кино"
+},
+{
+"name": "TOP USSR HD",
+"group": "Кино"
+},
+{
+"name": "TOP Великолепный Век HD",
+"group": "Кино"
+},
+{
+"name": "Trash HD",
+"group": "Кино"
+},
+{
+"name": "Tviksel Военное кино HD",
+"group": "Кино"
+},
+{
+"name": "Tviksel Детское кино HD",
+"group": "Кино"
+},
+{
+"name": "Tviksel Детское кино International",
+"group": "Кино"
+},
+{
+"name": "Tviksel Кино 1 HD",
+"group": "Кино"
+},
+{
+"name": "Tviksel Кино 1 International",
+"group": "Кино"
+},
+{
+"name": "Tviksel Кино 2 HD",
+"group": "Кино"
+},
+{
+"name": "Ultra HD Cinema 4K",
+"group": "Кино"
+},
+{
+"name": "VeleS 60fps",
+"group": "Кино"
+},
+{
+"name": "VeleS Movie Hits",
+"group": "Кино"
+},
+{
+"name": "VeleS Premiere",
+"group": "Кино"
+},
+{
+"name": "VeleS Киноплёнка",
+"group": "Кино"
+},
+{
+"name": "VeleS Киносерия",
+"group": "Кино"
+},
+{
+"name": "VeleS Магнитофон",
+"group": "Кино"
+},
+{
+"name": "VeleS СССР",
+"group": "Кино"
+},
+{
+"name": "VeleS Страшное",
+"group": "Кино"
+},
+{
+"name": "Venera.TV Советская классика 4K",
+"group": "Кино"
+},
+{
+"name": "Vesna HD",
+"group": "Кино"
+},
+{
+"name": "VF Adventure",
+"group": "Кино"
+},
+{
+"name": "VF Anime",
+"group": "Кино"
+},
+{
+"name": "VF Art house",
+"group": "Кино"
+},
+{
+"name": "VF Cartoon",
+"group": "Кино"
+},
+{
+"name": "VF Classic",
+"group": "Кино"
+},
+{
+"name": "VF Comedy",
+"group": "Кино"
+},
+{
+"name": "VF Comedy Woman",
+"group": "Кино"
+},
+{
+"name": "VF Comics",
+"group": "Кино"
+},
+{
+"name": "VF Detective",
+"group": "Кино"
+},
+{
+"name": "VF Disney Movie",
+"group": "Кино"
+},
+{
+"name": "VF Family",
+"group": "Кино"
+},
+{
+"name": "VF Fantastic",
+"group": "Кино"
+},
+{
+"name": "VF Fantasy",
+"group": "Кино"
+},
+{
+"name": "VF HBO",
+"group": "Кино"
+},
+{
+"name": "VF Marvel",
+"group": "Кино"
+},
+{
+"name": "VF Melodrama",
+"group": "Кино"
+},
+{
+"name": "VF Mystic",
+"group": "Кино"
+},
+{
+"name": "VF Netflix",
+"group": "Кино"
+},
+{
+"name": "VF New Year",
+"group": "Кино"
+},
+{
+"name": "VF Premiere",
+"group": "Кино"
+},
+{
+"name": "VF Series",
+"group": "Кино"
+},
+{
+"name": "VF The X-Files",
+"group": "Кино"
+},
+{
+"name": "VF Thriller",
+"group": "Кино"
+},
+{
+"name": "VF TOP Series",
+"group": "Кино"
+},
+{
+"name": "VF VHS MIX",
+"group": "Кино"
+},
+{
+"name": "VF Американская история ужасов",
+"group": "Кино"
+},
+{
+"name": "VF Без цензуры",
+"group": "Кино"
+},
+{
+"name": "VF Беларусьфильм",
+"group": "Кино"
+},
+{
+"name": "VF Бесстыжие",
+"group": "Кино"
+},
+{
+"name": "VF Боевик",
+"group": "Кино"
+},
+{
+"name": "VF Вестерн",
+"group": "Кино"
+},
+{
+"name": "VF Владимир Высоцкий",
+"group": "Кино"
+},
+{
+"name": "VF Военные",
+"group": "Кино"
+},
+{
+"name": "VF Воронины",
+"group": "Кино"
+},
+{
+"name": "VF Гарри Поттер",
+"group": "Кино"
+},
+{
+"name": "VF Городок",
+"group": "Кино"
+},
+{
+"name": "VF Два с половиной человека",
+"group": "Кино"
+},
+{
+"name": "VF Джеки Чан",
+"group": "Кино"
+},
+{
+"name": "VF Доктор Хаус",
+"group": "Кино"
+},
+{
+"name": "VF Друзья",
+"group": "Кино"
+},
+{
+"name": "VF Ёлки",
+"group": "Кино"
+},
+{
+"name": "VF Игра престолов",
+"group": "Кино"
+},
+{
+"name": "VF Индия",
+"group": "Кино"
+},
+{
+"name": "VF История",
+"group": "Кино"
+},
+{
+"name": "VF Карточный домик",
+"group": "Кино"
+},
+{
+"name": "VF Катастрофы",
+"group": "Кино"
+},
+{
+"name": "VF Кино 4K",
+"group": "Кино"
+},
+{
+"name": "VF Киностудия им. Горького",
+"group": "Кино"
+},
+{
+"name": "VF Классика",
+"group": "Кино"
+},
+{
+"name": "VF Клиника",
+"group": "Кино"
+},
+{
+"name": "VF Комедия",
+"group": "Кино"
+},
+{
+"name": "VF Криминал",
+"group": "Кино"
+},
+{
+"name": "VF Ленфильм",
+"group": "Кино"
+},
+{
+"name": "VF Леонид Гайдай",
+"group": "Кино"
+},
+{
+"name": "VF Луи де Фюнес",
+"group": "Кино"
+},
+{
+"name": "VF Мосфильм",
+"group": "Кино"
+},
+{
+"name": "VF Мультфильмы СССР",
+"group": "Кино"
+},
+{
+"name": "VF Мыльные оперы",
+"group": "Кино"
+},
+{
+"name": "VF Наша победа",
+"group": "Кино"
+},
+{
+"name": "VF Наша Раша",
+"group": "Кино"
+},
+{
+"name": "VF Новогодний",
+"group": "Кино"
+},
+{
+"name": "VF Одесская киностудия",
+"group": "Кино"
+},
+{
+"name": "VF Оскар",
+"group": "Кино"
+},
+{
+"name": "VF Премьера",
+"group": "Кино"
+},
+{
+"name": "VF Привет из 90х",
+"group": "Кино"
+},
+{
+"name": "VF Реальные пацаны",
+"group": "Кино"
+},
+{
+"name": "VF Рижская киностудия",
+"group": "Кино"
+},
+{
+"name": "VF С новым годом!",
+"group": "Кино"
+},
+{
+"name": "VF СашаТаня",
+"group": "Кино"
+},
+{
+"name": "VF Сваты",
+"group": "Кино"
+},
+{
+"name": "VF Свердловская киностудия",
+"group": "Кино"
+},
+{
+"name": "VF Сверхъестественное",
+"group": "Кино"
+},
+{
+"name": "VF Секс в большом городе",
+"group": "Кино"
+},
+{
+"name": "VF Сериал",
+"group": "Кино"
+},
+{
+"name": "VF Сериал 4K",
+"group": "Кино"
+},
+{
+"name": "VF Сериалы Турции",
+"group": "Кино"
+},
+{
+"name": "VF След",
+"group": "Кино"
+},
+{
+"name": "VF Солдаты",
+"group": "Кино"
+},
+{
+"name": "VF Счастливы Вместе",
+"group": "Кино"
+},
+{
+"name": "VF Тайны следствия",
+"group": "Кино"
+},
+{
+"name": "VF Теория большого взрыва",
+"group": "Кино"
+},
+{
+"name": "VF Ужасы",
+"group": "Кино"
+},
+{
+"name": "VF Ужасы VHS",
+"group": "Кино"
+},
+{
+"name": "VF Универ",
+"group": "Кино"
+},
+{
+"name": "VF Универ новая общага",
+"group": "Кино"
+},
+{
+"name": "VF Фильмы СССР",
+"group": "Кино"
+},
+{
+"name": "VF Ходячие мертвецы",
+"group": "Кино"
+},
+{
+"name": "VF Чернобыль",
+"group": "Кино"
+},
+{
+"name": "VF Эльдар Рязанов",
+"group": "Кино"
+},
+{
+"name": "VHS-ка HD",
+"group": "Кино"
+},
+{
+"name": "VHS-ка Русское кино HD",
+"group": "Кино"
+},
+{
+"name": "VHS-ка Сериал HD",
+"group": "Кино"
+},
+{
+"name": "Viasat Kino World HD",
+"group": "Кино"
+},
+{
+"name": "Viasat Serial HD",
+"group": "Кино"
+},
+{
+"name": "Viju TV1000",
+"group": "Кино"
+},
+{
+"name": "Viju TV1000 Action",
+"group": "Кино"
+},
+{
+"name": "Viju TV1000 Action HD",
+"group": "Кино"
+},
+{
+"name": "Viju TV1000 HD",
+"group": "Кино"
+},
+{
+"name": "Viju TV1000 Новелла HD",
+"group": "Кино"
+},
+{
+"name": "Viju TV1000 Русское",
+"group": "Кино"
+},
+{
+"name": "Viju TV1000 Русское HD",
+"group": "Кино"
+},
+{
+"name": "Viju+ Comedy HD",
+"group": "Кино"
+},
+{
+"name": "Viju+ Megahit HD",
+"group": "Кино"
+},
+{
+"name": "Viju+ Premiere HD",
+"group": "Кино"
+},
+{
+"name": "Viju+ Serial HD",
+"group": "Кино"
+},
+{
+"name": "Yosso TV 4K",
+"group": "Кино"
+},
+{
+"name": "Yosso TV 4K HDR",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Adrenaline",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Adventure",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Best",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Best 60fps",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Disney",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Grand",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Netflix",
+"group": "Кино"
+},
+{
+"name": "Yosso TV New Кино",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Oblivion",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Thriller",
+"group": "Кино"
+},
+{
+"name": "Yosso TV VHS",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Забавное",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Ковбойское",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Мелодрама",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Русские Фильмы",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Советские Фильмы",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Советские Фильмы 4K",
+"group": "Кино"
+},
+{
+"name": "Yosso TV Трагичное",
+"group": "Кино"
+},
+{
+"name": "Z!Action HD",
+"group": "Кино"
+},
+{
+"name": "Z!Adventure HD",
+"group": "Кино"
+},
+{
+"name": "Z!Biography HD",
+"group": "Кино"
+},
+{
+"name": "Z!Channel HD",
+"group": "Кино"
+},
+{
+"name": "Z!Comedy HD",
+"group": "Кино"
+},
+{
+"name": "Z!Crime HD",
+"group": "Кино"
+},
+{
+"name": "Z!Detective HD",
+"group": "Кино"
+},
+{
+"name": "Z!Drama HD",
+"group": "Кино"
+},
+{
+"name": "Z!Family HD",
+"group": "Кино"
+},
+{
+"name": "Z!Fantastic HD",
+"group": "Кино"
+},
+{
+"name": "Z!Fantasy HD",
+"group": "Кино"
+},
+{
+"name": "Z!Fun HD",
+"group": "Кино"
+},
+{
+"name": "Z!History HD",
+"group": "Кино"
+},
+{
+"name": "Z!Horror HD",
+"group": "Кино"
+},
+{
+"name": "Z!Military HD",
+"group": "Кино"
+},
+{
+"name": "Z!Russian HD",
+"group": "Кино"
+},
+{
+"name": "Z!Science HD",
+"group": "Кино"
+},
+{
+"name": "Z!Serial HD",
+"group": "Кино"
+},
+{
+"name": "Z!Sitcom HD",
+"group": "Кино"
+},
+{
+"name": "Z!Smile HD",
+"group": "Кино"
+},
+{
+"name": "Z!Thriller HD",
+"group": "Кино"
+},
+{
+"name": "Блокбастер HD",
+"group": "Кино"
+},
+{
+"name": "Госфильмофонд. Машина времени HD",
+"group": "Кино"
+},
+{
+"name": "День Победы HD",
+"group": "Кино"
+},
+{
+"name": "Дом Кино",
+"group": "Кино"
+},
+{
+"name": "Дом Кино Премиум HD",
+"group": "Кино"
+},
+{
+"name": "Дорама HD",
+"group": "Кино"
+},
+{
+"name": "Душевное HD",
+"group": "Кино"
+},
+{
+"name": "Еврокино",
+"group": "Кино"
+},
+{
+"name": "Зал 1 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 10 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 11 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 12 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 13 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 17 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 19 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 2 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 20 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 3 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 31 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 35 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 36 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 4 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 5 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 6 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 7 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Зал 8 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Знание ТВ",
+"group": "Кино"
+},
+{
+"name": "Иллюзион+",
+"group": "Кино"
+},
+{
+"name": "Индийское Кино",
+"group": "Кино"
+},
+{
+"name": "Индия",
+"group": "Кино"
+},
+{
+"name": "Камеди HD",
+"group": "Кино"
+},
+{
+"name": "Кинеко",
+"group": "Кино"
+},
+{
+"name": "Кинеко HD",
+"group": "Кино"
+},
+{
+"name": "Кино UHD",
+"group": "Кино"
+},
+{
+"name": "Кино ТВ",
+"group": "Кино"
+},
+{
+"name": "Кино ТВ HD",
+"group": "Кино"
+},
+{
+"name": "Кинозал 1 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Кинозал 2 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Кинозал 3 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Кинозал 4 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Кинозал 5 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Кинозал 6 (Триколор)",
+"group": "Кино"
+},
+{
+"name": "Кинокомедия",
+"group": "Кино"
+},
+{
+"name": "Кинокомедия HD",
+"group": "Кино"
+},
+{
+"name": "КиноКульт HD",
+"group": "Кино"
+},
+{
+"name": "Киноман",
+"group": "Кино"
+},
+{
+"name": "Киномикс",
+"group": "Кино"
+},
+{
+"name": "Киномикс HD",
+"group": "Кино"
+},
+{
+"name": "Кинопоказ HD",
+"group": "Кино"
+},
+{
+"name": "Кинопремьера HD",
+"group": "Кино"
+},
+{
+"name": "Киносвидание",
+"group": "Кино"
+},
+{
+"name": "Киносвидание HD",
+"group": "Кино"
+},
+{
+"name": "КиноСезон HD",
+"group": "Кино"
+},
+{
+"name": "Киносемья",
+"group": "Кино"
+},
+{
+"name": "Киносемья HD",
+"group": "Кино"
+},
+{
+"name": "Киносерия",
+"group": "Кино"
+},
+{
+"name": "Киносерия HD",
+"group": "Кино"
+},
+{
+"name": "Киноужас HD",
+"group": "Кино"
+},
+{
+"name": "Кинохит",
+"group": "Кино"
+},
+{
+"name": "Кинохит HD",
+"group": "Кино"
+},
+{
+"name": "Кион Хит HD",
+"group": "Кино"
+},
+{
+"name": "Комедийное HD",
+"group": "Кино"
+},
+{
+"name": "Комедия",
+"group": "Кино"
+},
+{
+"name": "Лавстори HD",
+"group": "Кино"
+},
+{
+"name": "Любимое HD",
+"group": "Кино"
+},
+{
+"name": "Любимое Кино",
+"group": "Кино"
+},
+{
+"name": "Любимое Кино HD",
+"group": "Кино"
+},
+{
+"name": "Мир Сериала",
+"group": "Кино"
+},
+{
+"name": "Мосфильм. Золотая коллекция",
+"group": "Кино"
+},
+{
+"name": "Мосфильм. Золотая коллекция HD",
+"group": "Кино"
+},
+{
+"name": "Мужское Кино",
+"group": "Кино"
+},
+{
+"name": "Мужское Кино HD",
+"group": "Кино"
+},
+{
+"name": "Наш Кинопоказ HD",
+"group": "Кино"
+},
+{
+"name": "Наше HD",
+"group": "Кино"
+},
+{
+"name": "Наше Мужское HD",
+"group": "Кино"
+},
+{
+"name": "Наше Новое Кино",
+"group": "Кино"
+},
+{
+"name": "Наше Новое Кино HD",
+"group": "Кино"
+},
+{
+"name": "НСТ",
+"group": "Кино"
+},
+{
+"name": "НТВ Сериал",
+"group": "Кино"
+},
+{
+"name": "НТВ Хит",
+"group": "Кино"
+},
+{
+"name": "Остросюжетное HD",
+"group": "Кино"
+},
+{
+"name": "Победа",
+"group": "Кино"
+},
+{
+"name": "Победа HD",
+"group": "Кино"
+},
+{
+"name": "Премиальное FHD",
+"group": "Кино"
+},
+{
+"name": "Премиальное HD",
+"group": "Кино"
+},
+{
+"name": "Премиальное HD 50",
+"group": "Кино"
+},
+{
+"name": "Про Любовь HD",
+"group": "Кино"
+},
+{
+"name": "РЕН ТВ UHD",
+"group": "Кино"
+},
+{
+"name": "Ретро",
+"group": "Кино"
+},
+{
+"name": "Ретро orig",
+"group": "Кино"
+},
+{
+"name": "Родное Кино",
+"group": "Кино"
+},
+{
+"name": "Романтичное HD",
+"group": "Кино"
+},
+{
+"name": "Русский бестселлер",
+"group": "Кино"
+},
+{
+"name": "Русский детектив",
+"group": "Кино"
+},
+{
+"name": "Русский иллюзион",
+"group": "Кино"
+},
+{
+"name": "Русский иллюзион HD",
+"group": "Кино"
+},
+{
+"name": "Русский роман",
+"group": "Кино"
+},
+{
+"name": "Русский роман HD",
+"group": "Кино"
+},
+{
+"name": "Сапфир",
+"group": "Кино"
+},
+{
+"name": "Сапфир HD",
+"group": "Кино"
+},
+{
+"name": "Советская киноклассика HD",
+"group": "Кино"
+},
+{
+"name": "Страшное HD",
+"group": "Кино"
+},
+{
+"name": "Суспільне Культура HD UA",
+"group": "Кино"
+},
+{
+"name": "ТВ 21",
+"group": "Кино"
+},
+{
+"name": "Твое ТВ HD",
+"group": "Кино"
+},
+{
+"name": "Феникс плюс Кино",
+"group": "Кино"
+},
+{
+"name": "Хит HD",
+"group": "Кино"
+},
+{
+"name": "Шокирующее HD",
+"group": "Кино"
+},
+{
+"name": "Betking Live 1",
+"group": "Спорт"
+},
+{
+"name": "Betking Live 2",
+"group": "Спорт"
+},
+{
+"name": "BOX Be On Edge HD",
+"group": "Спорт"
+},
+{
+"name": "BOX Be On Edge Live 1 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX Be On Edge Live 2 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SportCast HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SportCast Live 1 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SportCast Live 2 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SportCast Live 3 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SportCast Live 4 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SportCast Live 5 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SportCast Live 6 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SportCast Live 7 HD",
+"group": "Спорт"
+},
+{
+"name": "BOX SR Sport 1 Live HDR",
+"group": "Спорт"
+},
+{
+"name": "BOX SR Sport 2 Live HDR",
+"group": "Спорт"
+},
+{
+"name": "BOX SR Sport HDR",
+"group": "Спорт"
+},
+{
+"name": "CineMan Premium",
+"group": "Спорт"
+},
+{
+"name": "Eurosport 1",
+"group": "Спорт"
+},
+{
+"name": "Eurosport 1 HD",
+"group": "Спорт"
+},
+{
+"name": "Eurosport 1 HD 50",
+"group": "Спорт"
+},
+{
+"name": "Eurosport 1 UHD",
+"group": "Спорт"
+},
+{
+"name": "Eurosport 2 HD",
+"group": "Спорт"
+},
+{
+"name": "Eurosport 2 UHD",
+"group": "Спорт"
+},
+{
+"name": "Extreme Sports",
+"group": "Спорт"
+},
+{
+"name": "Extreme Sports HD",
+"group": "Спорт"
+},
+{
+"name": "Fast & Fun Box HD",
+"group": "Спорт"
+},
+{
+"name": "Fast Sports 1 HD AM",
+"group": "Спорт"
+},
+{
+"name": "Fast Sports 2 HD AM",
+"group": "Спорт"
+},
+{
+"name": "Fast Sports FHD AM",
+"group": "Спорт"
+},
+{
+"name": "Fint Ga 1",
+"group": "Спорт"
+},
+{
+"name": "Fint Ga 2",
+"group": "Спорт"
+},
+{
+"name": "Fint Ga 3",
+"group": "Спорт"
+},
+{
+"name": "Fint Ga 4",
+"group": "Спорт"
+},
+{
+"name": "Fox Sports HD MX",
+"group": "Спорт"
+},
+{
+"name": "Fuel TV",
+"group": "Спорт"
+},
+{
+"name": "KHL",
+"group": "Спорт"
+},
+{
+"name": "KHL HD",
+"group": "Спорт"
+},
+{
+"name": "KHL Prime FHD",
+"group": "Спорт"
+},
+{
+"name": "KHL Prime HD",
+"group": "Спорт"
+},
+{
+"name": "KHL Prime HD 50",
+"group": "Спорт"
+},
+{
+"name": "Media Sport HD",
+"group": "Спорт"
+},
+{
+"name": "Megogo Спорт HD",
+"group": "Спорт"
+},
+{
+"name": "MMA-TV.com",
+"group": "Спорт"
+},
+{
+"name": "MMA-TV.com HD",
+"group": "Спорт"
+},
+{
+"name": "Pimple TV 1",
+"group": "Спорт"
+},
+{
+"name": "Pimple TV 2",
+"group": "Спорт"
+},
+{
+"name": "Pimple TV 3",
+"group": "Спорт"
+},
+{
+"name": "Pimple TV 4",
+"group": "Спорт"
+},
+{
+"name": "Pimple TV 5",
+"group": "Спорт"
+},
+{
+"name": "Pimple TV 6",
+"group": "Спорт"
+},
+{
+"name": "Q Sport.KG HD",
+"group": "Спорт"
+},
+{
+"name": "Red Bull TV HD",
+"group": "Спорт"
+},
+{
+"name": "Russian Extreme HD",
+"group": "Спорт"
+},
+{
+"name": "Russian Extreme UHD",
+"group": "Спорт"
+},
+{
+"name": "Setanta Baltic 1 HD",
+"group": "Спорт"
+},
+{
+"name": "Setanta Moldova FHD",
+"group": "Спорт"
+},
+{
+"name": "Setanta Qazaqstan HD",
+"group": "Спорт"
+},
+{
+"name": "Setanta Sports 1",
+"group": "Спорт"
+},
+{
+"name": "Setanta Sports 1 HD",
+"group": "Спорт"
+},
+{
+"name": "Setanta Sports 2",
+"group": "Спорт"
+},
+{
+"name": "Setanta Sports 2 HD",
+"group": "Спорт"
+},
+{
+"name": "Start World",
+"group": "Спорт"
+},
+{
+"name": "StrahTV MMA TIME HD",
+"group": "Спорт"
+},
+{
+"name": "StrahTV WWE Russian",
+"group": "Спорт"
+},
+{
+"name": "Trace Sport Stars HD",
+"group": "Спорт"
+},
+{
+"name": "UFC Fight HD",
+"group": "Спорт"
+},
+{
+"name": "Viju+ Sport",
+"group": "Спорт"
+},
+{
+"name": "Viju+ Sport HD",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 1",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 10",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 11",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 12",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 13",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 14",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 15",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 16",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 17",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 2",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 3",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 4",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 5",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 6",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 7",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 8",
+"group": "Спорт"
+},
+{
+"name": "ViP Sport 9",
+"group": "Спорт"
+},
+{
+"name": "Vital Sport Drive",
+"group": "Спорт"
+},
+{
+"name": "Бокс ТВ",
+"group": "Спорт"
+},
+{
+"name": "Бокс ТВ HD",
+"group": "Спорт"
+},
+{
+"name": "Волейбол HD",
+"group": "Спорт"
+},
+{
+"name": "Драйв",
+"group": "Спорт"
+},
+{
+"name": "Живи Активно HD",
+"group": "Спорт"
+},
+{
+"name": "ЖИВИ!",
+"group": "Спорт"
+},
+{
+"name": "Легенда",
+"group": "Спорт"
+},
+{
+"name": "Матч ТВ",
+"group": "Спорт"
+},
+{
+"name": "Матч ТВ FHD",
+"group": "Спорт"
+},
+{
+"name": "Матч ТВ HD",
+"group": "Спорт"
+},
+{
+"name": "Матч ТВ HD 50",
+"group": "Спорт"
+},
+{
+"name": "Матч! Арена",
+"group": "Спорт"
+},
+{
+"name": "Матч! Арена HD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Боец",
+"group": "Спорт"
+},
+{
+"name": "Матч! Боец HD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Игра",
+"group": "Спорт"
+},
+{
+"name": "Матч! Игра FHD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Игра HD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Игра HD 50",
+"group": "Спорт"
+},
+{
+"name": "Матч! Планета",
+"group": "Спорт"
+},
+{
+"name": "Матч! Премьер",
+"group": "Спорт"
+},
+{
+"name": "Матч! Премьер FHD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Премьер HD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Премьер HD 50",
+"group": "Спорт"
+},
+{
+"name": "Матч! Страна",
+"group": "Спорт"
+},
+{
+"name": "Матч! Страна HD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 1",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 1 FHD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 1 HD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 1 HD 50",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 2",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 2 FHD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 2 HD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 2 HD 50",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 3",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 3 FHD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 3 HD",
+"group": "Спорт"
+},
+{
+"name": "Матч! Футбол 3 HD 50",
+"group": "Спорт"
+},
+{
+"name": "Мир Баскетбола",
+"group": "Спорт"
+},
+{
+"name": "Мир Баскетбола HD",
+"group": "Спорт"
+},
+{
+"name": "Мяч HD",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 1",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 10",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 11",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 12",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 13",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 14",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 15",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 16",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 17",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 18",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 19",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 2",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 20",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 21",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 22",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 23",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 24",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 25",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 26",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 27",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 28",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 3",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 4",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 5",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 6",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 7",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 8",
+"group": "Спорт"
+},
+{
+"name": "Окко Event 9",
+"group": "Спорт"
+},
+{
+"name": "Окко Прайм Спорт HD",
+"group": "Спорт"
+},
+{
+"name": "Окко Спорт HD",
+"group": "Спорт"
+},
+{
+"name": "Окко Футбол HD",
+"group": "Спорт"
+},
+{
+"name": "Окко Футбол UHD",
+"group": "Спорт"
+},
+{
+"name": "Старт FHD",
+"group": "Спорт"
+},
+{
+"name": "Старт HD",
+"group": "Спорт"
+},
+{
+"name": "Старт Триумф HD",
+"group": "Спорт"
+},
+{
+"name": "ТВ Спорт HD",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 1",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 10",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 11",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 12",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 13",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 14",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 15",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 16",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 17",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 18",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 19",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 2",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 20",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 21",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 22",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 23",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 24",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 3",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 4",
+"group": "Спорт"
+},
+{
+"name": "Триколор Спорт 5",
+"group": "Спорт"
+},
+{
+"name": "Удар HD",
+"group": "Спорт"
+},
+{
+"name": "Футбол",
+"group": "Спорт"
+},
+{
+"name": "Футбол HD",
+"group": "Спорт"
+},
+{
+"name": "Хоккей ТВ HD",
+"group": "Спорт"
+},
+{
+"name": "1HD Music Television HD",
+"group": "Музыка"
+},
+{
+"name": "1HD Music Television HD orig",
+"group": "Музыка"
+},
+{
+"name": "AIVA TV HD",
+"group": "Музыка"
+},
+{
+"name": "AIVA TV HD orig",
+"group": "Музыка"
+},
+{
+"name": "Baraza Music HD GR",
+"group": "Музыка"
+},
+{
+"name": "BCU Russia 90s HD",
+"group": "Музыка"
+},
+{
+"name": "BOX Metall HD",
+"group": "Музыка"
+},
+{
+"name": "BOX Music 4K HDR",
+"group": "Музыка"
+},
+{
+"name": "BOX Relax 4K",
+"group": "Музыка"
+},
+{
+"name": "BOX RU.RAP HD",
+"group": "Музыка"
+},
+{
+"name": "Bridge Classic",
+"group": "Музыка"
+},
+{
+"name": "Bridge Classic orig",
+"group": "Музыка"
+},
+{
+"name": "Bridge Deluxe HD",
+"group": "Музыка"
+},
+{
+"name": "Bridge Deluxe HD orig",
+"group": "Музыка"
+},
+{
+"name": "Bridge Hits",
+"group": "Музыка"
+},
+{
+"name": "Bridge Hits HD",
+"group": "Музыка"
+},
+{
+"name": "Bridge Rock",
+"group": "Музыка"
+},
+{
+"name": "Bridge Rock HD",
+"group": "Музыка"
+},
+{
+"name": "Bridge TV",
+"group": "Музыка"
+},
+{
+"name": "Bridge TV orig",
+"group": "Музыка"
+},
+{
+"name": "Bridge Русский Хит",
+"group": "Музыка"
+},
+{
+"name": "Bridge Русский Хит HD",
+"group": "Музыка"
+},
+{
+"name": "Bridge Русский Хит orig",
+"group": "Музыка"
+},
+{
+"name": "Bridge Фрэш",
+"group": "Музыка"
+},
+{
+"name": "Bridge Фрэш HD",
+"group": "Музыка"
+},
+{
+"name": "Bridge Шлягер",
+"group": "Музыка"
+},
+{
+"name": "CHD-TV Rock HD",
+"group": "Музыка"
+},
+{
+"name": "Classic Music",
+"group": "Музыка"
+},
+{
+"name": "Classic Music HD",
+"group": "Музыка"
+},
+{
+"name": "Dance TV Mainstream EDM",
+"group": "Музыка"
+},
+{
+"name": "Deejay TV HD IT",
+"group": "Музыка"
+},
+{
+"name": "Deluxe Dance HD DE",
+"group": "Музыка"
+},
+{
+"name": "Deluxe Music HD DE",
+"group": "Музыка"
+},
+{
+"name": "Deluxe Music HD DE orig",
+"group": "Музыка"
+},
+{
+"name": "Europa Plus TV",
+"group": "Музыка"
+},
+{
+"name": "Europa Plus TV HD",
+"group": "Музыка"
+},
+{
+"name": "Europa Plus TV orig",
+"group": "Музыка"
+},
+{
+"name": "FON Music",
+"group": "Музыка"
+},
+{
+"name": "FON Music HD",
+"group": "Музыка"
+},
+{
+"name": "FON Music orig",
+"group": "Музыка"
+},
+{
+"name": "FRESH Concerts HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Dance HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Hits HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Lyrics HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Retro HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Rock Covers HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Rock HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Russian Hits HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Russian Rap HD",
+"group": "Музыка"
+},
+{
+"name": "FRESH Sad Music HD",
+"group": "Музыка"
+},
+{
+"name": "iConcerts HD orig",
+"group": "Музыка"
+},
+{
+"name": "InRating TV HD UA",
+"group": "Музыка"
+},
+{
+"name": "Kiss Kiss HD IT",
+"group": "Музыка"
+},
+{
+"name": "Kiss Kiss Italia HD",
+"group": "Музыка"
+},
+{
+"name": "KroneHit TV HD AT",
+"group": "Музыка"
+},
+{
+"name": "Maidan (Татарстан)",
+"group": "Музыка"
+},
+{
+"name": "MCM Top Russia",
+"group": "Музыка"
+},
+{
+"name": "MCM Top Russia orig",
+"group": "Музыка"
+},
+{
+"name": "Mezzo",
+"group": "Музыка"
+},
+{
+"name": "Mezzo Live HD",
+"group": "Музыка"
+},
+{
+"name": "MM Relax HD",
+"group": "Музыка"
+},
+{
+"name": "MTV Classic",
+"group": "Музыка"
+},
+{
+"name": "MTV HD US",
+"group": "Музыка"
+},
+{
+"name": "MTV US",
+"group": "Музыка"
+},
+{
+"name": "Music Box Gold",
+"group": "Музыка"
+},
+{
+"name": "Music Box Russia",
+"group": "Музыка"
+},
+{
+"name": "Music Box Russia HD",
+"group": "Музыка"
+},
+{
+"name": "Music Box Russia orig",
+"group": "Музыка"
+},
+{
+"name": "NM Television HD",
+"group": "Музыка"
+},
+{
+"name": "Now 80s UK",
+"group": "Музыка"
+},
+{
+"name": "NRG 91 HD GR",
+"group": "Музыка"
+},
+{
+"name": "NRJ Hits HD",
+"group": "Музыка"
+},
+{
+"name": "Plan_B HD",
+"group": "Музыка"
+},
+{
+"name": "Retro Music TV CZ",
+"group": "Музыка"
+},
+{
+"name": "SONGTV Россия HD",
+"group": "Музыка"
+},
+{
+"name": "Spirit TV HD",
+"group": "Музыка"
+},
+{
+"name": "That's 70s UK",
+"group": "Музыка"
+},
+{
+"name": "That's 80s UK",
+"group": "Музыка"
+},
+{
+"name": "That's Rock UK",
+"group": "Музыка"
+},
+{
+"name": "Trace Urban HD",
+"group": "Музыка"
+},
+{
+"name": "Tviksel Балет Опера HD",
+"group": "Музыка"
+},
+{
+"name": "Tviksel Музыка 1 HD",
+"group": "Музыка"
+},
+{
+"name": "Tviksel Музыка 1 International",
+"group": "Музыка"
+},
+{
+"name": "Tviksel Музыка 2 HD",
+"group": "Музыка"
+},
+{
+"name": "Tviksel Музыка 2 International",
+"group": "Музыка"
+},
+{
+"name": "Tviksel Музыка Кино HD",
+"group": "Музыка"
+},
+{
+"name": "Tviksel Музыка Кино International",
+"group": "Музыка"
+},
+{
+"name": "V2BEAT HD UK",
+"group": "Музыка"
+},
+{
+"name": "VeleS Dj Set",
+"group": "Музыка"
+},
+{
+"name": "VF Britney Spears",
+"group": "Музыка"
+},
+{
+"name": "VF Metal",
+"group": "Музыка"
+},
+{
+"name": "VF Michael Jackson",
+"group": "Музыка"
+},
+{
+"name": "VF Modern Talking",
+"group": "Музыка"
+},
+{
+"name": "VF Music",
+"group": "Музыка"
+},
+{
+"name": "VF Rap",
+"group": "Музыка"
+},
+{
+"name": "VF Rock",
+"group": "Музыка"
+},
+{
+"name": "VF Караоке",
+"group": "Музыка"
+},
+{
+"name": "VF Король и Шут",
+"group": "Музыка"
+},
+{
+"name": "VF Легенды Ретро ФМ",
+"group": "Музыка"
+},
+{
+"name": "VF Музсоюз",
+"group": "Музыка"
+},
+{
+"name": "VF Музыка",
+"group": "Музыка"
+},
+{
+"name": "VF Музыкальный Новый год!",
+"group": "Музыка"
+},
+{
+"name": "VF Русский рок",
+"group": "Музыка"
+},
+{
+"name": "VF Хит-парад",
+"group": "Музыка"
+},
+{
+"name": "VF Шансон",
+"group": "Музыка"
+},
+{
+"name": "Vostok TV",
+"group": "Музыка"
+},
+{
+"name": "Yosso TV Music Hits",
+"group": "Музыка"
+},
+{
+"name": "Z!Music HD",
+"group": "Музыка"
+},
+{
+"name": "Z!Rock HD",
+"group": "Музыка"
+},
+{
+"name": "Zerouno TV HD IT",
+"group": "Музыка"
+},
+{
+"name": "Горящий камин",
+"group": "Музыка"
+},
+{
+"name": "Жар Птица",
+"group": "Музыка"
+},
+{
+"name": "Жар Птица orig",
+"group": "Музыка"
+},
+{
+"name": "Жара",
+"group": "Музыка"
+},
+{
+"name": "Жара HD",
+"group": "Музыка"
+},
+{
+"name": "Жара orig",
+"group": "Музыка"
+},
+{
+"name": "Курай ТВ",
+"group": "Музыка"
+},
+{
+"name": "Курай ТВ HD",
+"group": "Музыка"
+},
+{
+"name": "Курай ТВ HD orig",
+"group": "Музыка"
+},
+{
+"name": "Курай ТВ orig",
+"group": "Музыка"
+},
+{
+"name": "МУЗ-ТВ",
+"group": "Музыка"
+},
+{
+"name": "МУЗ-ТВ +3 (Омск)",
+"group": "Музыка"
+},
+{
+"name": "МУЗ-ТВ +4",
+"group": "Музыка"
+},
+{
+"name": "МУЗ-ТВ orig",
+"group": "Музыка"
+},
+{
+"name": "МузСоюз HD",
+"group": "Музыка"
+},
+{
+"name": "МузСоюз orig",
+"group": "Музыка"
+},
+{
+"name": "Музыка Live",
+"group": "Музыка"
+},
+{
+"name": "Музыка Live orig",
+"group": "Музыка"
+},
+{
+"name": "Музыка Первого",
+"group": "Музыка"
+},
+{
+"name": "Музыка Первого orig",
+"group": "Музыка"
+},
+{
+"name": "о2тв",
+"group": "Музыка"
+},
+{
+"name": "о2тв HD",
+"group": "Музыка"
+},
+{
+"name": "о2тв HD orig",
+"group": "Музыка"
+},
+{
+"name": "о2тв orig",
+"group": "Музыка"
+},
+{
+"name": "Первый музыкальный",
+"group": "Музыка"
+},
+{
+"name": "Первый музыкальный BY",
+"group": "Музыка"
+},
+{
+"name": "Первый музыкальный HD",
+"group": "Музыка"
+},
+{
+"name": "Первый музыкальный HD BY",
+"group": "Музыка"
+},
+{
+"name": "Радио Вести ФМ (Ставрополь)",
+"group": "Музыка"
+},
+{
+"name": "Радио России (Ставрополь)",
+"group": "Музыка"
+},
+{
+"name": "Радио Хит HD (Орск)",
+"group": "Музыка"
+},
+{
+"name": "Радио Шансон HD",
+"group": "Музыка"
+},
+{
+"name": "РУ.ТВ",
+"group": "Музыка"
+},
+{
+"name": "РУ.ТВ HD",
+"group": "Музыка"
+},
+{
+"name": "РУ.ТВ orig",
+"group": "Музыка"
+},
+{
+"name": "Страна ТВ HD",
+"group": "Музыка"
+},
+{
+"name": "Шансон ТВ",
+"group": "Музыка"
+},
+{
+"name": "Шансон ТВ orig",
+"group": "Музыка"
+},
+{
+"name": "Ani",
+"group": "Детские"
+},
+{
+"name": "Baby Time",
+"group": "Детские"
+},
+{
+"name": "Baby TV",
+"group": "Детские"
+},
+{
+"name": "BCU Kids 4K",
+"group": "Детские"
+},
+{
+"name": "BCU Kids HDR",
+"group": "Детские"
+},
+{
+"name": "BCU Kids+ HDR",
+"group": "Детские"
+},
+{
+"name": "BCU Little HD",
+"group": "Детские"
+},
+{
+"name": "BCU Мультсериал HD",
+"group": "Детские"
+},
+{
+"name": "Cartoon Classics",
+"group": "Детские"
+},
+{
+"name": "Cartoon Network HD",
+"group": "Детские"
+},
+{
+"name": "Cartoonito",
+"group": "Детские"
+},
+{
+"name": "CineMan Cartoons 90",
+"group": "Детские"
+},
+{
+"name": "CineMan Cartoons Big",
+"group": "Детские"
+},
+{
+"name": "CineMan Cartoons Short",
+"group": "Детские"
+},
+{
+"name": "CineMan Kids 4K",
+"group": "Детские"
+},
+{
+"name": "Duck TV HD",
+"group": "Детские"
+},
+{
+"name": "Gulli Girl",
+"group": "Детские"
+},
+{
+"name": "JimJam",
+"group": "Детские"
+},
+{
+"name": "Kids TV HD",
+"group": "Детские"
+},
+{
+"name": "KinoKazka",
+"group": "Детские"
+},
+{
+"name": "Liberty Бебимульт FHD",
+"group": "Детские"
+},
+{
+"name": "Liberty Дисней FHD",
+"group": "Детские"
+},
+{
+"name": "Liberty Мульт 4K",
+"group": "Детские"
+},
+{
+"name": "Liberty Мульт UKR 4K",
+"group": "Детские"
+},
+{
+"name": "Liberty Мульт UKR FHD",
+"group": "Детские"
+},
+{
+"name": "Liberty Пиксар FHD",
+"group": "Детские"
+},
+{
+"name": "Magic Disney HD",
+"group": "Детские"
+},
+{
+"name": "MYTV Kids",
+"group": "Детские"
+},
+{
+"name": "Nick Jr.",
+"group": "Детские"
+},
+{
+"name": "Nickelodeon",
+"group": "Детские"
+},
+{
+"name": "Nickelodeon HD",
+"group": "Детские"
+},
+{
+"name": "NickToons HD",
+"group": "Детские"
+},
+{
+"name": "StrahTV Весёлая Карусель HD",
+"group": "Детские"
+},
+{
+"name": "StrahTV Ералаш HD",
+"group": "Детские"
+},
+{
+"name": "StrahTV Кроха ТВ",
+"group": "Детские"
+},
+{
+"name": "StrahTV Том и Джерри",
+"group": "Детские"
+},
+{
+"name": "Tiji TV",
+"group": "Детские"
+},
+{
+"name": "VeleS Kids",
+"group": "Детские"
+},
+{
+"name": "Venera.TV 101 далматинец",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Peppa Pig",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Аладдин",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Барбоскины",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Бивис и Батт-Хед",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Воскресное утро 90х",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Вспыш и чудо-машинки",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Вуди Вудпекер",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Гриффины",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Губка Боб",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Даша-путешественница",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Детский мир 4K",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Енотки. Первые слова",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Еноты",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Корги по имени Моко",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Крепыш и команда",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Леди Баг и Супер-Кот",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Маша и Медведь",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Микки Маус",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Мини-мишки",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Мишки Гамми",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Ну, погоди!",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Охотники за привидениями",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Очень странные делишки",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Панда и Антилопа",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Подводная одиссея",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Простоквашино",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Пчёлка Майя",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Рапунцель",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Рик и Морти",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Розовая пантера",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Свинка Пеппа",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Симпсоны",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Смешарики",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Смурфики",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Суперкрошки",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Тимон и Пумба",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Том и Джерри 4K",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Три кота",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Утиные истории",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Фиксики",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Чип и Дейл",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Чудеса на виражах",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Щенячий патруль",
+"group": "Детские"
+},
+{
+"name": "Venera.TV Экстрасенсы",
+"group": "Детские"
+},
+{
+"name": "VF Disney Cartoon",
+"group": "Детские"
+},
+{
+"name": "VF VHS Cartoon",
+"group": "Детские"
+},
+{
+"name": "VF Ералаш",
+"group": "Детские"
+},
+{
+"name": "VF Малыш",
+"group": "Детские"
+},
+{
+"name": "VF Мультуб",
+"group": "Детские"
+},
+{
+"name": "VF Новогодние мультфильмы",
+"group": "Детские"
+},
+{
+"name": "VF Скуби-Ду",
+"group": "Детские"
+},
+{
+"name": "VF Союзмультфильм",
+"group": "Детские"
+},
+{
+"name": "Yosso TV Kids",
+"group": "Детские"
+},
+{
+"name": "Yosso TV Наше Детское",
+"group": "Детские"
+},
+{
+"name": "Yosso TV Союзмульт",
+"group": "Детские"
+},
+{
+"name": "В гостях у сказки",
+"group": "Детские"
+},
+{
+"name": "В гостях у сказки HD",
+"group": "Детские"
+},
+{
+"name": "Весёлые малыши HD",
+"group": "Детские"
+},
+{
+"name": "Детский",
+"group": "Детские"
+},
+{
+"name": "Детский HD",
+"group": "Детские"
+},
+{
+"name": "Детский мир",
+"group": "Детские"
+},
+{
+"name": "Детский мир HD",
+"group": "Детские"
+},
+{
+"name": "Капитан Фантастика HD",
+"group": "Детские"
+},
+{
+"name": "Карусель",
+"group": "Детские"
+},
+{
+"name": "Карусель (Ставрополь)",
+"group": "Детские"
+},
+{
+"name": "Карусель +3",
+"group": "Детские"
+},
+{
+"name": "Карусель HD",
+"group": "Детские"
+},
+{
+"name": "КиноМульт",
+"group": "Детские"
+},
+{
+"name": "Лёва HD",
+"group": "Детские"
+},
+{
+"name": "Мульт",
+"group": "Детские"
+},
+{
+"name": "Мульт HD",
+"group": "Детские"
+},
+{
+"name": "Мультиландия",
+"group": "Детские"
+},
+{
+"name": "Мультиландия HD",
+"group": "Детские"
+},
+{
+"name": "Мультимузыка",
+"group": "Детские"
+},
+{
+"name": "О!",
+"group": "Детские"
+},
+{
+"name": "Радость моя",
+"group": "Детские"
+},
+{
+"name": "Рыжий",
+"group": "Детские"
+},
+{
+"name": "Сказки Зайки HD",
+"group": "Детские"
+},
+{
+"name": "Смайл ТВ HD",
+"group": "Детские"
+},
+{
+"name": "СТС Kids HD",
+"group": "Детские"
+},
+{
+"name": "СуперГерои",
+"group": "Детские"
+},
+{
+"name": "СуперГерои HD",
+"group": "Детские"
+},
+{
+"name": "ТипТоп HD",
+"group": "Детские"
+},
+{
+"name": "Тооку (Якутия)",
+"group": "Детские"
+},
+{
+"name": "Чижик HD",
+"group": "Детские"
+},
+{
+"name": "365 дней ТВ",
+"group": "Познавательные"
+},
+{
+"name": "Animal Planet",
+"group": "Познавательные"
+},
+{
+"name": "Animal Planet HD",
+"group": "Познавательные"
+},
+{
+"name": "BCU Biography HDR",
+"group": "Познавательные"
+},
+{
+"name": "Big Planet",
+"group": "Познавательные"
+},
+{
+"name": "Big Planet HD",
+"group": "Познавательные"
+},
+{
+"name": "BOX AutoTrend HD",
+"group": "Познавательные"
+},
+{
+"name": "BOX Docu HD",
+"group": "Познавательные"
+},
+{
+"name": "BOX Gurman HD",
+"group": "Познавательные"
+},
+{
+"name": "BOX History 4K HDR",
+"group": "Познавательные"
+},
+{
+"name": "BOX Kosmo 4K HDR",
+"group": "Познавательные"
+},
+{
+"name": "BOX Travel Premiere HD",
+"group": "Познавательные"
+},
+{
+"name": "Bridge Этно HD",
+"group": "Познавательные"
+},
+{
+"name": "Da Vinci",
+"group": "Познавательные"
+},
+{
+"name": "Discovery Channel",
+"group": "Познавательные"
+},
+{
+"name": "Discovery Channel HD",
+"group": "Познавательные"
+},
+{
+"name": "DocuBox HD",
+"group": "Познавательные"
+},
+{
+"name": "English Class HD",
+"group": "Познавательные"
+},
+{
+"name": "English Club TV",
+"group": "Познавательные"
+},
+{
+"name": "Fashion & Lifestyle FHD",
+"group": "Познавательные"
+},
+{
+"name": "Food Network HD",
+"group": "Познавательные"
+},
+{
+"name": "FoodTime FHD",
+"group": "Познавательные"
+},
+{
+"name": "FoodTime HD",
+"group": "Познавательные"
+},
+{
+"name": "FoodTime HD 50",
+"group": "Познавательные"
+},
+{
+"name": "History 2 FHD",
+"group": "Познавательные"
+},
+{
+"name": "History 2 HD",
+"group": "Познавательные"
+},
+{
+"name": "History FHD",
+"group": "Познавательные"
+},
+{
+"name": "History HD",
+"group": "Познавательные"
+},
+{
+"name": "Home 4K",
+"group": "Познавательные"
+},
+{
+"name": "Investigation Discovery",
+"group": "Познавательные"
+},
+{
+"name": "Investigation Discovery HD",
+"group": "Познавательные"
+},
+{
+"name": "Liberty BBC FHD",
+"group": "Познавательные"
+},
+{
+"name": "Liberty Наука FHD",
+"group": "Познавательные"
+},
+{
+"name": "Liberty Планета360 FHD",
+"group": "Познавательные"
+},
+{
+"name": "Love Nature 4K",
+"group": "Познавательные"
+},
+{
+"name": "MM Experiment HD",
+"group": "Познавательные"
+},
+{
+"name": "MM Translation HD",
+"group": "Познавательные"
+},
+{
+"name": "MM Макромир HD",
+"group": "Познавательные"
+},
+{
+"name": "MM Мегамир HD",
+"group": "Познавательные"
+},
+{
+"name": "MM Микромир HD",
+"group": "Познавательные"
+},
+{
+"name": "MM Открытия HD",
+"group": "Познавательные"
+},
+{
+"name": "Museum 4K",
+"group": "Познавательные"
+},
+{
+"name": "Museum TV HD",
+"group": "Познавательные"
+},
+{
+"name": "Nano",
+"group": "Познавательные"
+},
+{
+"name": "National Geographic",
+"group": "Познавательные"
+},
+{
+"name": "National Geographic HD",
+"group": "Познавательные"
+},
+{
+"name": "National Geographic Wild",
+"group": "Познавательные"
+},
+{
+"name": "National Geographic Wild FHD",
+"group": "Познавательные"
+},
+{
+"name": "National Geographic Wild HD",
+"group": "Познавательные"
+},
+{
+"name": "RTG HD",
+"group": "Познавательные"
+},
+{
+"name": "RTG TV",
+"group": "Познавательные"
+},
+{
+"name": "Sea TV",
+"group": "Познавательные"
+},
+{
+"name": "TERRA",
+"group": "Познавательные"
+},
+{
+"name": "TERRA HD",
+"group": "Познавательные"
+},
+{
+"name": "The Explorers HD",
+"group": "Познавательные"
+},
+{
+"name": "TLC HD",
+"group": "Познавательные"
+},
+{
+"name": "Top Secret",
+"group": "Познавательные"
+},
+{
+"name": "Travel Channel HD",
+"group": "Познавательные"
+},
+{
+"name": "Travel+Adventure",
+"group": "Познавательные"
+},
+{
+"name": "Travel+Adventure HD",
+"group": "Познавательные"
+},
+{
+"name": "TravelXP 4K",
+"group": "Познавательные"
+},
+{
+"name": "TravelXP 4K HDR",
+"group": "Познавательные"
+},
+{
+"name": "TravelXP HD",
+"group": "Познавательные"
+},
+{
+"name": "Univer TV HD",
+"group": "Познавательные"
+},
+{
+"name": "Venera.TV Космос",
+"group": "Познавательные"
+},
+{
+"name": "VF Авто",
+"group": "Познавательные"
+},
+{
+"name": "VF Домашний повар",
+"group": "Познавательные"
+},
+{
+"name": "VF Охота",
+"group": "Познавательные"
+},
+{
+"name": "VF Путешествия",
+"group": "Познавательные"
+},
+{
+"name": "VF Рыбалка",
+"group": "Познавательные"
+},
+{
+"name": "VF Стройка",
+"group": "Познавательные"
+},
+{
+"name": "Viju Explore",
+"group": "Познавательные"
+},
+{
+"name": "Viju Explore HD",
+"group": "Познавательные"
+},
+{
+"name": "Viju History",
+"group": "Познавательные"
+},
+{
+"name": "Viju History HD",
+"group": "Познавательные"
+},
+{
+"name": "Viju Nature",
+"group": "Познавательные"
+},
+{
+"name": "Viju Nature HD",
+"group": "Познавательные"
+},
+{
+"name": "Viju+ Planet HD",
+"group": "Познавательные"
+},
+{
+"name": "World Fashion Channel",
+"group": "Познавательные"
+},
+{
+"name": "Yosso TV Food",
+"group": "Познавательные"
+},
+{
+"name": "Yosso TV Nature",
+"group": "Познавательные"
+},
+{
+"name": "Yosso TV Science",
+"group": "Познавательные"
+},
+{
+"name": "Yosso TV Travel",
+"group": "Познавательные"
+},
+{
+"name": "Z!Travel HD",
+"group": "Познавательные"
+},
+{
+"name": "Авто 24",
+"group": "Познавательные"
+},
+{
+"name": "Авто 24 HD",
+"group": "Познавательные"
+},
+{
+"name": "Авто Плюс",
+"group": "Познавательные"
+},
+{
+"name": "Авто Плюс HD",
+"group": "Познавательные"
+},
+{
+"name": "Арт",
+"group": "Познавательные"
+},
+{
+"name": "Бобёр",
+"group": "Познавательные"
+},
+{
+"name": "Бобёр HD",
+"group": "Познавательные"
+},
+{
+"name": "Большая Азия HD",
+"group": "Познавательные"
+},
+{
+"name": "В мире животных HD",
+"group": "Познавательные"
+},
+{
+"name": "Вкус HD",
+"group": "Познавательные"
+},
+{
+"name": "Вопросы и ответы",
+"group": "Познавательные"
+},
+{
+"name": "Время",
+"group": "Познавательные"
+},
+{
+"name": "Глазами Туриста 4K",
+"group": "Познавательные"
+},
+{
+"name": "Глазами Туриста HD",
+"group": "Познавательные"
+},
+{
+"name": "Диалоги о рыбалке HD",
+"group": "Познавательные"
+},
+{
+"name": "Дикая охота HD",
+"group": "Познавательные"
+},
+{
+"name": "Дикая рыбалка HD",
+"group": "Познавательные"
+},
+{
+"name": "Дикий",
+"group": "Познавательные"
+},
+{
+"name": "Доктор",
+"group": "Познавательные"
+},
+{
+"name": "Доктор HD",
+"group": "Познавательные"
+},
+{
+"name": "Домашние Животные",
+"group": "Познавательные"
+},
+{
+"name": "ЕГЭ ТВ",
+"group": "Познавательные"
+},
+{
+"name": "Еда",
+"group": "Познавательные"
+},
+{
+"name": "Живая Планета",
+"group": "Познавательные"
+},
+{
+"name": "Живая природа HD",
+"group": "Познавательные"
+},
+{
+"name": "ЖИВИ! HD",
+"group": "Познавательные"
+},
+{
+"name": "Загородная Жизнь",
+"group": "Познавательные"
+},
+{
+"name": "Загородный int HD",
+"group": "Познавательные"
+},
+{
+"name": "Зал 26 (Триколор)",
+"group": "Познавательные"
+},
+{
+"name": "Зоо ТВ",
+"group": "Познавательные"
+},
+{
+"name": "Зоопарк",
+"group": "Познавательные"
+},
+{
+"name": "Инсайт ТВ UHD",
+"group": "Познавательные"
+},
+{
+"name": "История",
+"group": "Познавательные"
+},
+{
+"name": "Калейдоскоп ТВ",
+"group": "Познавательные"
+},
+{
+"name": "Конгресс ТВ HD",
+"group": "Познавательные"
+},
+{
+"name": "Криминальное HD",
+"group": "Познавательные"
+},
+{
+"name": "Кто Куда",
+"group": "Познавательные"
+},
+{
+"name": "Кухня",
+"group": "Познавательные"
+},
+{
+"name": "Легенда HD",
+"group": "Познавательные"
+},
+{
+"name": "Мама",
+"group": "Познавательные"
+},
+{
+"name": "Мир Вокруг HD",
+"group": "Познавательные"
+},
+{
+"name": "Моя Планета",
+"group": "Познавательные"
+},
+{
+"name": "Моя Планета HD",
+"group": "Познавательные"
+},
+{
+"name": "Моя Стихия",
+"group": "Познавательные"
+},
+{
+"name": "Моя Стихия HD",
+"group": "Познавательные"
+},
+{
+"name": "Мужской",
+"group": "Познавательные"
+},
+{
+"name": "Мужской HD",
+"group": "Познавательные"
+},
+{
+"name": "Надежда HD",
+"group": "Познавательные"
+},
+{
+"name": "Нано ТВ HD",
+"group": "Познавательные"
+},
+{
+"name": "Настоящее время HD",
+"group": "Познавательные"
+},
+{
+"name": "Наука HD",
+"group": "Познавательные"
+},
+{
+"name": "Научпоп HD",
+"group": "Познавательные"
+},
+{
+"name": "Наша Сибирь 4K",
+"group": "Познавательные"
+},
+{
+"name": "Наша Сибирь HD",
+"group": "Познавательные"
+},
+{
+"name": "Наша Тема",
+"group": "Познавательные"
+},
+{
+"name": "Наше Наследие HD",
+"group": "Познавательные"
+},
+{
+"name": "Неизвестная Россия HD",
+"group": "Познавательные"
+},
+{
+"name": "НТВ Право",
+"group": "Познавательные"
+},
+{
+"name": "НТВ Стиль",
+"group": "Познавательные"
+},
+{
+"name": "Океан HD",
+"group": "Познавательные"
+},
+{
+"name": "Оружие",
+"group": "Познавательные"
+},
+{
+"name": "Охота и рыбалка",
+"group": "Познавательные"
+},
+{
+"name": "Охота и рыбалка orig",
+"group": "Познавательные"
+},
+{
+"name": "Охотник и Рыболов HD",
+"group": "Познавательные"
+},
+{
+"name": "Первый Вегетарианский",
+"group": "Познавательные"
+},
+{
+"name": "Первый космический HD",
+"group": "Познавательные"
+},
+{
+"name": "Первый Российский Национальный Канал HD",
+"group": "Познавательные"
+},
+{
+"name": "Пёс и Ко",
+"group": "Познавательные"
+},
+{
+"name": "Поехали!",
+"group": "Познавательные"
+},
+{
+"name": "Поехали! HD",
+"group": "Познавательные"
+},
+{
+"name": "Приключения HD",
+"group": "Познавательные"
+},
+{
+"name": "Про Бизнес",
+"group": "Познавательные"
+},
+{
+"name": "РЖД ТВ",
+"group": "Познавательные"
+},
+{
+"name": "Т24",
+"group": "Познавательные"
+},
+{
+"name": "Тайна",
+"group": "Познавательные"
+},
+{
+"name": "Тайны Галактики",
+"group": "Познавательные"
+},
+{
+"name": "Тайны Галактики HD",
+"group": "Познавательные"
+},
+{
+"name": "ТБВ",
+"group": "Познавательные"
+},
+{
+"name": "Телекафе",
+"group": "Познавательные"
+},
+{
+"name": "Телепутешествия",
+"group": "Познавательные"
+},
+{
+"name": "Точка Отрыва",
+"group": "Познавательные"
+},
+{
+"name": "Точка Отрыва HD",
+"group": "Познавательные"
+},
+{
+"name": "Точка.РФ HD",
+"group": "Познавательные"
+},
+{
+"name": "Трофей UA",
+"group": "Познавательные"
+},
+{
+"name": "Усадьба",
+"group": "Познавательные"
+},
+{
+"name": "2x2 HD",
+"group": "Развлекательные"
+},
+{
+"name": "BOX Lo-Fi HD",
+"group": "Развлекательные"
+},
+{
+"name": "CineMan Фитнес",
+"group": "Развлекательные"
+},
+{
+"name": "Citrus Holiday",
+"group": "Развлекательные"
+},
+{
+"name": "Epic HD",
+"group": "Развлекательные"
+},
+{
+"name": "Fashion & Lifestyle HD",
+"group": "Развлекательные"
+},
+{
+"name": "Fashion TV HD",
+"group": "Развлекательные"
+},
+{
+"name": "FashionBox HD",
+"group": "Развлекательные"
+},
+{
+"name": "Gags Network",
+"group": "Развлекательные"
+},
+{
+"name": "HOT Senior HD IL",
+"group": "Развлекательные"
+},
+{
+"name": "Liberty Авто Гир FHD",
+"group": "Развлекательные"
+},
+{
+"name": "Liberty Занавес  HD",
+"group": "Развлекательные"
+},
+{
+"name": "Liberty Шоу FHD",
+"group": "Развлекательные"
+},
+{
+"name": "Luli SD IL",
+"group": "Развлекательные"
+},
+{
+"name": "Luxury",
+"group": "Развлекательные"
+},
+{
+"name": "Luxury HD",
+"group": "Развлекательные"
+},
+{
+"name": "M+ Vacaciones HD ES",
+"group": "Развлекательные"
+},
+{
+"name": "MyZen 4K",
+"group": "Развлекательные"
+},
+{
+"name": "MyZen TV HD",
+"group": "Развлекательные"
+},
+{
+"name": "Neox HD ES",
+"group": "Развлекательные"
+},
+{
+"name": "OstWest DE",
+"group": "Развлекательные"
+},
+{
+"name": "Quadro 4K",
+"group": "Развлекательные"
+},
+{
+"name": "Russian Extreme",
+"group": "Развлекательные"
+},
+{
+"name": "StrahTV Назад в 90-e",
+"group": "Развлекательные"
+},
+{
+"name": "VF Баня",
+"group": "Развлекательные"
+},
+{
+"name": "VF Каламбур",
+"group": "Развлекательные"
+},
+{
+"name": "VF КВН",
+"group": "Развлекательные"
+},
+{
+"name": "VF Концерты",
+"group": "Развлекательные"
+},
+{
+"name": "VF Кухня",
+"group": "Развлекательные"
+},
+{
+"name": "VF Маски Шоу",
+"group": "Развлекательные"
+},
+{
+"name": "VF Однажды в России",
+"group": "Развлекательные"
+},
+{
+"name": "VF Орел и решка",
+"group": "Развлекательные"
+},
+{
+"name": "VF Уральские пельмени",
+"group": "Развлекательные"
+},
+{
+"name": "VF Юмор 18+",
+"group": "Развлекательные"
+},
+{
+"name": "Viva Vintage HD IL",
+"group": "Развлекательные"
+},
+{
+"name": "Анекдот ТВ",
+"group": "Развлекательные"
+},
+{
+"name": "Аппетитный HD",
+"group": "Развлекательные"
+},
+{
+"name": "Арсенал HD",
+"group": "Развлекательные"
+},
+{
+"name": "Большой Эфир HD",
+"group": "Развлекательные"
+},
+{
+"name": "Драйв HD",
+"group": "Развлекательные"
+},
+{
+"name": "Женский Журнал",
+"group": "Развлекательные"
+},
+{
+"name": "Зал Суда HD",
+"group": "Развлекательные"
+},
+{
+"name": "Зоопарк HD",
+"group": "Развлекательные"
+},
+{
+"name": "Ключ HD",
+"group": "Развлекательные"
+},
+{
+"name": "Кухня HD",
+"group": "Развлекательные"
+},
+{
+"name": "Лапки Live HD",
+"group": "Развлекательные"
+},
+{
+"name": "НТВ Стиль HD",
+"group": "Развлекательные"
+},
+{
+"name": "Перец International",
+"group": "Развлекательные"
+},
+{
+"name": "Плюс/Минус 16 HD",
+"group": "Развлекательные"
+},
+{
+"name": "Продвижение",
+"group": "Развлекательные"
+},
+{
+"name": "Солнце",
+"group": "Развлекательные"
+},
+{
+"name": "СТС +0 (Липецк)",
+"group": "Развлекательные"
+},
+{
+"name": "СТС International",
+"group": "Развлекательные"
+},
+{
+"name": "Театр",
+"group": "Развлекательные"
+},
+{
+"name": "ТНТ HD 50",
+"group": "Развлекательные"
+},
+{
+"name": "ТНТ4 +0 (Тамбов)",
+"group": "Развлекательные"
+},
+{
+"name": "ТНТ4 HD",
+"group": "Развлекательные"
+},
+{
+"name": "Точка.РФ FHD",
+"group": "Развлекательные"
+},
+{
+"name": "Усадьба HD",
+"group": "Развлекательные"
+},
+{
+"name": "Че! +4",
+"group": "Развлекательные"
+},
+{
+"name": "Sochi Live HD",
+"group": "Региональные"
+},
+{
+"name": "Абакан 24",
+"group": "Региональные"
+},
+{
+"name": "Астрахань 24 HD",
+"group": "Региональные"
+},
+{
+"name": "АТВ Ставрополь",
+"group": "Региональные"
+},
+{
+"name": "Башкортостан 24 HD",
+"group": "Региональные"
+},
+{
+"name": "Брянская Губерния HD",
+"group": "Региональные"
+},
+{
+"name": "БСТ HD",
+"group": "Региональные"
+},
+{
+"name": "БСТ HD orig",
+"group": "Региональные"
+},
+{
+"name": "БСТ orig",
+"group": "Региональные"
+},
+{
+"name": "Волга (Нижний Новгород) orig",
+"group": "Региональные"
+},
+{
+"name": "Вся Уфа",
+"group": "Региональные"
+},
+{
+"name": "Грозный",
+"group": "Региональные"
+},
+{
+"name": "Катунь 24 (Барнаул)",
+"group": "Региональные"
+},
+{
+"name": "Крым 24",
+"group": "Региональные"
+},
+{
+"name": "Липецкое время HD",
+"group": "Региональные"
+},
+{
+"name": "Матур ТВ HD (Башкортостан)",
+"group": "Региональные"
+},
+{
+"name": "Мир Белогорья HD",
+"group": "Региональные"
+},
+{
+"name": "Москва доверие",
+"group": "Региональные"
+},
+{
+"name": "Москва доверие orig",
+"group": "Региональные"
+},
+{
+"name": "НСК 49 (Новосибирск)",
+"group": "Региональные"
+},
+{
+"name": "НТК (Калмыкия)",
+"group": "Региональные"
+},
+{
+"name": "Осетия Ирыстон HD",
+"group": "Региональные"
+},
+{
+"name": "Первый Крымский",
+"group": "Региональные"
+},
+{
+"name": "Первый Тульский HD",
+"group": "Региональные"
+},
+{
+"name": "Раменское ТВ HD",
+"group": "Региональные"
+},
+{
+"name": "РГВК Дагестан HD",
+"group": "Региональные"
+},
+{
+"name": "РТС (Абакан)",
+"group": "Региональные"
+},
+{
+"name": "Самара 24",
+"group": "Региональные"
+},
+{
+"name": "Самара 24 HD",
+"group": "Региональные"
+},
+{
+"name": "Самара ГИС HD",
+"group": "Региональные"
+},
+{
+"name": "Санкт-Петербург",
+"group": "Региональные"
+},
+{
+"name": "Саратов 24 HD",
+"group": "Региональные"
+},
+{
+"name": "Сибирь 24 HD",
+"group": "Региональные"
+},
+{
+"name": "Симферополь 24 HD",
+"group": "Региональные"
+},
+{
+"name": "Сочи 24 HD",
+"group": "Региональные"
+},
+{
+"name": "Среда HD (Каспийск)",
+"group": "Региональные"
+},
+{
+"name": "Сургут 1 HD",
+"group": "Региональные"
+},
+{
+"name": "Сургут 86 HD",
+"group": "Региональные"
+},
+{
+"name": "ТВ Центр HD",
+"group": "Региональные"
+},
+{
+"name": "ТВ7 (Абакан)",
+"group": "Региональные"
+},
+{
+"name": "Толк HD (Барнаул)",
+"group": "Региональные"
+},
+{
+"name": "Томское время",
+"group": "Региональные"
+},
+{
+"name": "Туапсе 24 HD",
+"group": "Региональные"
+},
+{
+"name": "Эхо ТВ",
+"group": "Региональные"
+},
+{
+"name": "Югра",
+"group": "Региональные"
+},
+{
+"name": "Якутия 24",
+"group": "Региональные"
+},
+{
+"name": "Ямал регион HD",
+"group": "Региональные"
+},
+{
+"name": "5Sport 4K IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport Gold HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport Live FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport Live HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport Max HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport Plus HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport Stars FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "5Sport Stars HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Baby TV IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "BeautyZ HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "BollywooD Indian Classic Movies HD IN",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "BollywooD Indian Movies HD IN",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "BollywooD Series IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Channel 24 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Channel 98 IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Classic Comedy Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Design Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Discovery Channel FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Discovery Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Disney Channel IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "E! HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Ego Channel IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Food Network HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Food Network IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Foody HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Game Show Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Global Action 1 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Global Action 2 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Good Life IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "GTV IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Health IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Hidabrut IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "History FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "History HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Home Plus IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Hop! HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Hop! IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT 3 FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT 3 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT 8 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT 8 IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Bidur FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Bidur HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Buzz HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema 1 FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema 1 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema 2 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema 3 FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema 3 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema 4 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema 5 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema Family FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Cinema Family HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Comedy HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Drama HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Drama IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Israeli Cinema HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Mind HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Real HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Romantic Cinema HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "HOT Zone HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Humor Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Humor Channel IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "i24 News IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Indian Drama 1 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Indian Drama 2 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Junior HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Junior IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Kan Educational HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Kan Educational IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Knesset Channel IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Love Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Luli IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Makan 33 IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Mediterranean Movie Channel 1 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Mediterranean Movie Channel 2 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "National Geographic HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "National Geographic IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "National Geographic Wild FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "National Geographic Wild HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Nick Jr. IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "One 2 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "One 2 IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "One Doco HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "One Edge HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "One HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Rain IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Reality Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Spanish Drama 1 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Spanish Drama 2 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Sport 1 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Sport 2 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Sport 3 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Sport 4 FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Sport 4 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Sport 6 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Style Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "TeenNick IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Turkish Dramas 2 FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Turkish Dramas 2 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Turkish Dramas 3 FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Turkish Dramas 3 HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Turkish Dramas Plus FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Turkish Dramas Plus HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Turkish Dramas Plus IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Vacation Channel HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Viva Istanbul IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Viva Premium HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Viva Telenovelas IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "WIZ HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yam Tichoni HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yam Tichoni IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yam Tichoni+ HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Docu HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Israeli IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Action FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Action HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Action IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Comedy FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Comedy HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Comedy IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Drama FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Drama HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Drama IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Kids FHD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes Movies Kids HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes TV Action HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes TV Comedy HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Yes TV Drama HD IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Zee TV IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "Zoom IL",
+"group": "Израиль | ישראלי"
+},
+{
+"name": "1+1 International UA",
+"group": "Украина | Українські"
+},
+{
+"name": "1+1 Марафон UA",
+"group": "Украина | Українські"
+},
+{
+"name": "1+1 Україна FHD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "1+1 Україна HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "11 Канал HD (Дніпро) UA",
+"group": "Украина | Українські"
+},
+{
+"name": "2+2 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "2+2 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "24 Канал FHD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "24 Канал HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "36.6 TV UA",
+"group": "Украина | Українські"
+},
+{
+"name": "4ever Cinema HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "4ever Music HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "4ever Music UA",
+"group": "Украина | Українські"
+},
+{
+"name": "5 Канал HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "5 Канал UA",
+"group": "Украина | Українські"
+},
+{
+"name": "6 Соток UA",
+"group": "Украина | Українські"
+},
+{
+"name": "8 Канал FHD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "8 Канал HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "AMC UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ATR HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Bolt HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Bolt Россия HD",
+"group": "Украина | Українські"
+},
+{
+"name": "Cine+ HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Cine+ Hit HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Cine+ Kids HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Cine+ Legend HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "D1 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Da Vinci HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Divi Sport HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Eco TV HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Eco TV UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Enter-фільм HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Equalympic HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "EU Music FHD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "EU Music HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "FilmBox+ Festival orig",
+"group": "Украина | Українські"
+},
+{
+"name": "FilmBox+ Festival UA",
+"group": "Украина | Українські"
+},
+{
+"name": "FilmBox+ One UA",
+"group": "Украина | Українські"
+},
+{
+"name": "FilmUA Drama UA",
+"group": "Украина | Українські"
+},
+{
+"name": "FilmUA Live HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "FreeДом UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ICTV 2 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ICTV HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ICTV UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Kino Action HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Kino Comedy HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Kino Premiere HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Kinogrande HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Kinosweet HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Kinowood HD",
+"group": "Украина | Українські"
+},
+{
+"name": "NIKI Junior HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "NIKI Kids HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Obozrevatel TV HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Raz 3 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Setanta Sports HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Setanta Sports UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Setanta Sports+ HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Setanta Sports+ UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Sport 1 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Sport 2 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Star Cinema FHD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Star Cinema HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Star Cinema Россия HD",
+"group": "Украина | Українські"
+},
+{
+"name": "Star Family Россия HD",
+"group": "Украина | Українські"
+},
+{
+"name": "Super+ HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "UTravel HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Viasat Kino Action HD",
+"group": "Украина | Українські"
+},
+{
+"name": "Viasat Kino Comedy HD",
+"group": "Украина | Українські"
+},
+{
+"name": "Viasat Kino HD",
+"group": "Украина | Українські"
+},
+{
+"name": "Viasat Kino World",
+"group": "Украина | Українські"
+},
+{
+"name": "Viasat Nature CEE HD",
+"group": "Украина | Українські"
+},
+{
+"name": "Zoom HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Zoom UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Інтер HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Інтер UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Ісландія HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Аверс UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Апостроф TV HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Армія TV HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Бігуді HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Бігуді UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Галичина HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Дім UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Дача UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Еспресо FHD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Еспресо HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Еспресо UA",
+"group": "Украина | Українські"
+},
+{
+"name": "К1 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "К1 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "К2 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "К2 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Київ HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Київ UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Кус-Кус HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Кус-Кус UA",
+"group": "Украина | Українські"
+},
+{
+"name": "М1 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "М2 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Мега HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Мега UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Ми Україна UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Надiя ТВ UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Наука UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Новий Канал HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Новий Канал UA",
+"group": "Украина | Українські"
+},
+{
+"name": "НТА HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "НТН HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "НТН UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Оце HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Оце UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Пiксель TV HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Перший HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Перший UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Перший Автомобільний HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Перший Західний HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Перший Міський HD (Кривий Ріг) UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Перший Міський HD (Одеса) UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ПлюсПлюс HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ПлюсПлюс UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Прямий HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Радіо Закарпаття FM UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Радіо Промінь UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Радіо ТВА (Чернівці) UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Рада HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Рибалка FHD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Рибалка HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "СК1 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Сонце UA",
+"group": "Украина | Українські"
+},
+{
+"name": "СТБ HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "СТБ UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Суспільне Київ HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Суспільне Крим HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Суспільне Спорт FHD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Суспільне Спорт HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Сфера ТВ HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Твій Серіал HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ТВА (Чернівці) UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ТВА HD (Чернівці) UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Твоє Кіно Action HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Твоє Кіно Relax HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Твоє Кіно Хіт HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Тернопіль 1 HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Тернопіль 1 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Терра UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ТЕТ HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "ТЕТ UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Українське радіо 1 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Українське радіо 3 UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Уніaн Серіал HD UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Уніaн Серіал UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Фауна UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Чернiвецький Промiнь UA",
+"group": "Украина | Українські"
+},
+{
+"name": "Пятница! HD",
+"group": "Избранные"
+},
+{
+"name": "Пятница!",
+"group": "Избранные"
+},
+{
+"name": "ТНТ HD",
+"group": "Избранные"
+},
+{
+"name": "ТНТ FHD",
+"group": "Избранные"
+},
+{
+"name": "ТНТ",
+"group": "Избранные"
+},
+{
+"name": "Channel 14 HD IL",
+"group": "Избранные"
+},
+{
+"name": "Channel 14 FHD IL",
+"group": "Избранные"
+},
+{
+"name": "Channel 11 IL",
+"group": "Избранные"
+},
+{
+"name": "Channel 11 HD IL",
+"group": "Избранные"
+},
+{
+"name": "Keshet 12 HD IL",
+"group": "Избранные"
+},
+{
+"name": "Keshet 12 FHD IL",
+"group": "Избранные"
+},
+{
+"name": "Reshet 13 HD IL",
+"group": "Избранные"
+},
+{
+"name": "Channel 9 HD IL",
+"group": "Избранные"
+},
+{
+"name": "Channel 9 FHD IL",
+"group": "Избранные"
+},
+{
+"name": "СТС HD",
+"group": "Избранные"
+},
+{
+"name": "СТС",
+"group": "Избранные"
+}
+]
