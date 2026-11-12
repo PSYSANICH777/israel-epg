@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TvPlayer — ввод с телефона</title>
+<style>
+  body{margin:0;font-family:system-ui,-apple-system,Roboto,sans-serif;background:#0d47a1;color:#fff;padding:16px;font-size:18px;line-height:1.4}
+  main{max-width:640px;margin:0 auto}
+  h1{font-size:24px;margin:0 0 4px}
+  .hint{color:#bbdefb;font-size:15px;margin:0 0 16px}
+  label{display:block;margin:14px 0 4px;font-weight:600}
+  input,textarea{width:100%;box-sizing:border-box;font-size:18px;padding:10px;border-radius:8px;border:0}
+  details{margin-top:18px;background:#1565c0;border-radius:10px;padding:8px 12px}
+  summary{cursor:pointer;font-weight:600}
+  button{margin-top:20px;width:100%;font-size:22px;padding:14px;border:0;border-radius:12px;background:#ffeb3b;color:#0d2a4f;font-weight:700}
+  #msg{margin-top:16px;font-size:20px;font-weight:600}
+  .ok{color:#a5d6a7}.err{color:#ffcc80}
+</style>
+</head>
+<body>
+<main>
+<h1>TvPlayer — ввод с телефона</h1>
+<p class="hint">Работает через интернет: телефону не нужно быть в той же Wi-Fi сети, что и телевизор.</p>
+<form id="f">
+  <label for="edemkey">Ключ Edem / iLook</label>
+  <input id="edemkey" name="edemkey" autocomplete="off" autocapitalize="off">
+  <label for="edemdomain">Домен для каналов (например 7cda69b7.ottolok.net)</label>
+  <input id="edemdomain" name="edemdomain" autocomplete="off" autocapitalize="off">
+  <label for="playlist">Или ссылка на плейлист</label>
+  <input id="playlist" name="playlist" autocomplete="off" autocapitalize="off">
+  <details>
+    <summary>Дополнительно</summary>
+    <label for="vportal">Ссылка VPortal (видеотека)</label>
+    <textarea id="vportal" name="vportal" rows="3"></textarea>
+    <label for="vodsrc">Ссылка на плейлист с фильмами</label>
+    <input id="vodsrc" name="vodsrc" autocomplete="off" autocapitalize="off">
+    <label for="epg">EPG (по одной ссылке на строку, пусто — не менять)</label>
+    <textarea id="epg" name="epg" rows="3"></textarea>
+  </details>
+  <button type="submit">Отправить на телевизор</button>
+</form>
+<div id="msg"></div>
+</main>
+<script>
+  const code = (location.hash || '').replace('#', '').trim();
+  const msg = document.getElementById('msg');
+  if (!/^[A-Za-z0-9_-]{10,64}$/.test(code)) {
+    msg.className = 'err';
+    msg.textContent = 'Нет кода телевизора. Откройте эту страницу через QR-код на экране телевизора.';
+  }
+  document.getElementById('f').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!/^[A-Za-z0-9_-]{10,64}$/.test(code)) return;
+    const body = new URLSearchParams(new FormData(e.target)).toString();
+    msg.className = ''; msg.textContent = 'Отправляю…';
+    try {
+      const r = await fetch('https://ntfy.sh/' + code, { method: 'POST', body });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      msg.className = 'ok';
+      msg.textContent = '✔ Отправлено. Через несколько секунд телевизор получит данные.';
+    } catch (err) {
+      msg.className = 'err';
+      msg.textContent = 'Не удалось отправить: ' + err.message + '. Проверьте интернет на телефоне.';
+    }
+  });
+</script>
+</body>
+</html>
